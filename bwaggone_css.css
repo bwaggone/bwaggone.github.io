@@ -2,6 +2,7 @@
   width: 100%;
 }
 
-h1 {
-  color: red;
+.header {
+  text-align: center;
+  font-weight: 700;
 }
