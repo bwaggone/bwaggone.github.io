@@ -6,3 +6,8 @@
   text-align: center;
   font-weight: 700;
 }
+
+.info {
+  display: inline-block;
+  border: 5px black solid;
+}
