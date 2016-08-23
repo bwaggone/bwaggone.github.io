@@ -28,7 +28,7 @@ body {
   background-color: #2447B2;
 }
 
-background_image {
+.background_image {
   position: fixed;
   width: 100%;
   z-index: 10;
