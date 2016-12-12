@@ -1,5 +1,18 @@
+#nav{
+	  z-index: 10;
+	    position: relative;
+    } 
+
+#sidenav-overlay {
+      z-index: 9
+}
+
 {
 	width: 100%;
+}
+
+.page-footer {
+	background-color: #b71c1c;
 }
 
 .header {
@@ -69,6 +82,12 @@
 	border: 1px solid #00000;
 	opacity: 1;
 	margin: 5px;
+}
+
+.check-ai-pics {
+	max-width: 20em;
+	max-height: 20em;
+	background-color: rgba(255,255,255,0.8);
 }
 
 .parallax-container {
