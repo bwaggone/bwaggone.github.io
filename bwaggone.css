@@ -3,8 +3,13 @@
 	    position: relative;
     } 
 
+p {
+	color: #fff;
+}
+
+
 a {
-	color: #393534;
+	color: #bbb;
 }
 
 #sidenav-overlay {
@@ -27,9 +32,8 @@ a {
 */
 }
 
-.me {
-	max-width: 100%;
-	max-height: auto;
+.para-img {
+	max-height: 1000px;
 }
 
 .info {
