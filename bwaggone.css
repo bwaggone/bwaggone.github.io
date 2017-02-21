@@ -3,6 +3,10 @@
 	    position: relative;
     } 
 
+a {
+	color: #393534;
+}
+
 #sidenav-overlay {
       z-index: 9
 }
@@ -21,6 +25,11 @@
 	color: #fff;
 	/*text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
 */
+}
+
+.me {
+	max-width: 100%;
+	max-height: auto;
 }
 
 .info {
