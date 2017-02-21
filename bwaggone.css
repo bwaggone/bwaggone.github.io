@@ -7,6 +7,17 @@ p {
 	color: #fff;
 }
 
+.card-reveal > p {
+	color: #000;
+}
+
+.card-title{
+	background: rgba(0,0,0,0.5);
+}
+
+.cardtext {
+	font-size: 100%;
+}
 
 a {
 	color: #bbb;
@@ -98,9 +109,8 @@ a {
 }
 
 .check-ai-pics {
-	max-width: 20em;
-	max-height: 20em;
-	background-color: rgba(255,255,255,0.8);
+	max-width: 22em;
+	max-height: 22em;
 }
 
 .parallax-container {
