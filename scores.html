@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+  <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <!-- Materialize -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.8/css/materialize.min.css">
+
+  <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.8/js/materialize.min.js"></script>
+
+  <!-- Custom Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+
+    
+    <!-- My custom CSS -->
+	<script src="https://code.angularjs.org/1.5.3/angular.min.js"></script>
+	<script src="https://code.angularjs.org/1.5.3/angular-route.min.js"></script>
+    <link type="text/css" rel="stylesheet" href="bwaggone.css"/>
+    <link type="text/css" rel="stylesheet" href="scores.css"/>
+    <script src="bwaggone.js"></script>
+    <script src="js/scores.js"></script>
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no" name="viewport">
+
+</head>
+
+
+<body>
+  <div class="navbar-fixed">
+	  <nav class="red darken-4" role="navigation">
+		<div class="nav-wrapper container">
+			<a href="/" class="brand-logo"><img src="images/smash.png" style="vertical-align: middle; padding-bottom: 5px;" width="50px"></img></a>
+			<ul class = "right hide-on-med-and-down">
+				<li><a href="/">Home</a></li>
+				<li><a href="/projects">Projects</a></li>
+				<li><a href="#">Social Media</a></li>
+			</ul>
+
+			<ul class="side-nav" id= "slide-out">
+				<li>
+				<div class="userView">
+				<div class="background">
+				      <img src="images/polygons.png" style = "max-height: 250px"></img>
+				</div>
+				<a href="#!user"><img class="circle center" src="images/brandon.jpg"></a>
+				      <a href="#!name"><span class="white-text name">Brandon Waggoner</span></a>
+				      <a href="#!email"><span class="white-text email">bwaggone@umich.edu</span></a>
+				</div>
+				</li>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">Projects</a></li>
+				<li><a href="#">Social Media</a></li>
+	                </ul>
+			<a class="button-collapse" data-activates="slide-out"><i class="material-icons">menu</i></a>
+
+		</div>
+	</nav>
+  </div>
+  <body ng-app="myApp" ng-controller="myCtrl">
+<main>
+	  <div class="parallax-container">
+	      <div class="parallax"><img src="images/ddr.jpg"></div>
+<div class="row section">
+	<div class="col s10 offset-s1">
+<table>
+	<thead>
+		<th></th>
+              <th>Song Name</th>
+	      <th>Difficulty</th>
+	      <th>Total Perfect</th>
+	      <th>Percent Perfect</th>
+              <th>Marvelous</th>
+              <th>Perfect</th>
+              <th>Great</th>
+              <th>Good</th>
+              <th>Way Off</th>
+              <th>Miss</th>
+	</thead>
+	<tbody>
+		<tr ng-repeat="x in scores | orderBy: (x.mar + x.per) / x.total">
+			<td><img style="max-height: 80px;" ng-src="images/{{x.name}}.png"></img></td>
+			<td>{{ x.name }}</td>
+			<td>{{ x.diff }}</td>
+			<td>{{ x.mar + x.per }}</td>
+			<td>{{ (x.mar + x.per) / x.total | number:3 }}</td>
+			<td>{{ x.mar }}</td>
+			<td>{{ x.per }}</td>
+			<td>{{ x.gr8 }}</td>
+			<td>{{ x.good }}</td>
+			<td>{{ x.off }}</td>
+			<td>{{ x.miss }}</td>
+		</tr>
+
+	</tbody>
+</table>
+	</div>
+	</div>
+</div>
+</main>
+
+<footer class="page-footer red darken-4" style="margin: 0px">
+	<div class="container">
+		<div class="row">
+			<div class="col l6 s12">
+				<h5 class="white-text">Quick Links</h5>
+			</div>
+			<div class="col l4 offset-l2 s12">
+				<h5 class="white-text">Links</h5>
+				<ul>
+					<li><a class="grey-text text-lighten-3" href="#!">Smash Stats</a></li>
+					<li><a class="grey-text text-lighten-3" href="#!">Smash Reference Site</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div class="footer-copyright">
+		<div class="container">
+			<a class="grey-text text-lighten-4 right" href="#!">Thanks for visiting</a>
+		</div>
+	</div>
+</footer>
+</body>
+
+</html>
