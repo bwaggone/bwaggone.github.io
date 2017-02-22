@@ -2,3 +2,23 @@ table {
 	background: rgba(0,0,0,0.5);
 	color: white;
 }
+
+.parallax-container {
+	height: 750px;
+}
+
+
+@media (max-width: 1000px) {
+	.truncate2 {
+	  width: 100px;
+	    white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
+}
+}
+@media (min-width: 1001px) {
+	.truncate2 {
+	  width: 100px;
+	  word-wrap:break-word;
+	}
+}

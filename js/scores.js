@@ -6,6 +6,10 @@ $(document).ready(function(){
 var myApp = angular.module('myApp', []);
 myApp.controller('myCtrl', function($scope, $http) {
 
+	$scope.getPercent = function(x) {
+		return ((x.mar + x.per) / x.total)*100;
+	};
+
 	$scope.readScore = function(allText) {
 		var allTextLines = allText.split(/\r\n|\n/);
 		var headers = allTextLines[0].split(',');
