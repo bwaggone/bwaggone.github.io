@@ -1,0 +1,87 @@
+body {
+  background-color: #000000;
+  margin: 0px;
+  overflow: hidden;
+  background-image: radial-gradient(ellipse farthest-corner at center top, #23233f 0%, #000000 60%);
+  /*background-image: url(/images/v\ a\ p\ o\ r\ w\ a\ v\ e.jpg);*/
+    background-size: cover;
+  background-position: top center;
+}
+
+@font-face {
+    font-family: streamster;
+    src: url(Streamster.ttf);
+}
+
+h1 {
+  color: #C6CBF5;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 80px;
+  font-weight: 900px;
+  line-height: 1.2;
+  left: 50%;
+  margin: 0;
+  margin-left: -420px;
+  position: absolute;
+  text-align: center;
+  text-transform: uppercase;
+  top: 100px;
+  width: 852px;
+  z-index: 11;
+  background: -webkit-linear-gradient(top, #151C60, #C6CBF5 40%, black 40%, #E1A0CE 65%, white);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: white;
+}
+
+h2 {
+  letter-spacing: 3px;
+  color: #d100b1;
+  display: block;
+  font-family: 'streamster';
+  font-size: 100px;
+  margin-right: -8em;
+  position: absolute;
+  text-shadow: 0 0 1px #d100b1, 0 -3px 3px rgba(255, 255, 255, 0.8), 0 1px 1px rgba(0, 0, 0, 0.5), 0 0 15px #d100b1, 0 0 45px rgba(209, 0, 177, 0.8);
+  text-align: center;
+  text-transform: none;
+  -webkit-transform: skew(-10deg) rotate(-10deg);
+  -ms-transform: skew(-10deg) rotate(-10deg);
+  transform: skew(-10deg) rotate(-20deg);
+  top: 95px;
+  width: 100%;
+  z-index: 11;
+  font-weight: normal;
+}
+
+
+.logo-triangle {
+  -webkit-animation: dash 6s linear forwards;
+  animation: dash 6s linear forwards;
+  fill: url(#grad1);
+  -webkit-filter: url(#dropshadow);
+  filter: url(#dropshadow);
+  left: 50%;
+  margin-left: -200px;
+  position: absolute;
+  stroke-dasharray: 1200;
+  stroke-dashoffset: 1200;
+  top: 6em;
+  z-index: 8;
+}
+
+@-webkit-keyframes dash {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+@keyframes dash {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+canvas {display: block;
+	background:transparent;}
