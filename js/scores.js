@@ -27,7 +27,7 @@ myApp.controller('myCtrl', function($scope, $http) {
 					off: parseInt(data[5]),
 					miss: parseInt(data[6]),
 					diff: parseInt(data[7]),
-					total: parseInt(data[8])
+					grade: parseFloat(data[8])
 				};
 				lines.push(tarr);
 			}

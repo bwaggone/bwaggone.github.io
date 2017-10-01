@@ -74,8 +74,7 @@
 		<th style="padding: 48px;"></th>
               <th>Song Name</th>
 	      <th>Difficulty</th>
-	      <th>Total Perfect</th>
-	      <th>Percent Perfect</th>
+	      <th>Grade (ITG Scoring)</th>
               <th>Marvelous</th>
               <th>Perfect</th>
               <th>Great</th>
@@ -84,12 +83,11 @@
               <th>Miss</th>
 	</thead>
 	<tbody>
-		<tr ng-repeat="x in scores | orderBy:'(per + mar) / total':-1">
-			<td><img style="max-height: 80px;" ng-src="images/{{x.name}}.png"></img></td>
+		<tr ng-repeat="x in scores | orderBy:'grade':-1">
+			<td class="center"><img style="max-height: 80px;" ng-src="images/{{x.name}}.png"></img></td>
 			<td class="truncate2">{{ x.name }}</td>
 			<td>{{ x.diff }}</td>
-			<td>{{ x.mar + x.per }}</td>
-			<td>{{ getPercent(x) | number:1 }}%</td>
+			<td>{{ x.grade | number : 2 }}%</td>
 			<td>{{ x.mar }}</td>
 			<td>{{ x.per }}</td>
 			<td>{{ x.gr8 }}</td>
