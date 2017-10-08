@@ -15,6 +15,15 @@ table {
 		overflow: hidden;
 		text-overflow: ellipsis;
 }
+
+	.row {
+		padding: 10px;
+	}
+
+	tr {
+		max-width: 100px;
+	}
+
 }
 @media (min-width: 1001px) {
 	.truncate2 {

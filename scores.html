@@ -87,7 +87,7 @@
 			<td class="center"><img style="max-height: 80px;" ng-src="images/{{x.name}}.png"></img></td>
 			<td class="truncate2">{{ x.name }}</td>
 			<td>{{ x.diff }}</td>
-			<td>{{ x.grade | number : 2 }}%</td>
+			<td><span ng-if="x.grade > 96">&#9733 </span>{{ x.grade | number : 2 }}%</td>
 			<td>{{ x.mar }}</td>
 			<td>{{ x.per }}</td>
 			<td>{{ x.gr8 }}</td>
