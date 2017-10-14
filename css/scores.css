@@ -1,0 +1,62 @@
+table {
+	background: rgba(0,0,0,0.5);
+	color: white;
+}
+
+
+
+@media (max-width: 1000px) {
+	.parallax-container {
+		height: 200vw;
+	}
+	.truncate2 {
+	  width: 100px;
+	    white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
+}
+
+	.row {
+		padding: 10px;
+	}
+
+	tr {
+		max-width: 100px;
+	}
+	th.wideRow {
+		height: 115px;
+
+	}
+
+}
+@media (min-width: 1001px) {
+	.parallax-container {
+		height: 100vw;
+	}
+
+	.truncate2 {
+	  width: 150px;
+	  word-wrap:break-word;
+	  padding: 10px;
+	  padding-left: 20px;
+	}
+	tbody {
+		display:block;
+		height:100vh;
+		overflow:auto;
+	}
+	thead, tbody tr{
+		display:table;
+		width:100%;
+		table-layout:fixed;
+	}
+	td.wideRow {
+		width: 256px;
+	}
+	thead {
+		width: calc( 100% - 1em )
+	}
+	table {
+		width:100%;
+	}
+}
