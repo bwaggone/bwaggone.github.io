@@ -71,6 +71,13 @@ myApp.controller('myCtrl', function($scope, $http) {
 			diff: grade,
 			grade: percentdp*100
 		}
+
+		for(var i = 0; i < $scope.scores.length; i = i + 1){
+			if($scope.scores[i].name === datum.name &&
+					$scope.scores[i].grade > datum.grade)
+				return false;
+		}
+
 		return datum;
 
 

@@ -84,8 +84,8 @@
 	<tbody>
 		<tr ng-repeat="x in scores | orderBy:'grade':-1">
 			<td class="wideRow"><img ng-src="images/{{x.name}}.png"></img></td>
-			<td class="truncate2">{{ x.name }}</td>
-			<td><span ng-if="x.grade > 96">&#9733 </span>{{ x.grade | number : 2 }}%</td>
+			<td class="truncate2" ng-class="{gold: x.gr8 + x.good + x.off + x.miss == 0}">{{ x.name }}</td>
+			<td ng-class="{gold: x.gr8 + x.good + x.off + x.miss == 0}"><span ng-if="x.grade > 96">&#9733 </span>{{ x.grade | number : 2 }}%</td>
 			<td>{{ x.mar }}</td>
 			<td>{{ x.per }}</td>
 			<td>{{ x.gr8 }}</td>

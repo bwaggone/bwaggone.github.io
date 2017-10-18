@@ -3,6 +3,10 @@ table {
 	color: white;
 }
 
+.gold {
+	color: goldenrod;
+
+}
 
 
 @media (max-width: 1000px) {
