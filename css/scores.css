@@ -3,6 +3,12 @@ table {
 	color: white;
 }
 
+.tabs {
+	background: rgba(0,0,0,0.5);
+	color: white;
+
+}
+
 .gold {
 	color: goldenrod;
 

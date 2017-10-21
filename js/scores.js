@@ -1,6 +1,12 @@
 'use strict';   // See note about 'use strict'; below
+
+var HARDSONGS = ['Dadadadadadadadadada', 'Arrabbiata', 'Chinese Snowy Dance', 'CRAZY LOVE', 'KIMONO PRINCESS', 'ZETA ~The World of Prime Numbers and the Transcendental Being~'];
+
+
 $(document).ready(function(){
 	$('.parallax').parallax();
+        $('ul.tabs').tabs();
+
 });
 
 var myApp = angular.module('myApp', []);
@@ -50,8 +56,6 @@ myApp.controller('myCtrl', function($scope, $http) {
 		var percentdp = _songHighScore.children[7].innerHTML;
 		var tapNoteScores = _songHighScore.children[13].children;
 
-		if(name !== playerName || percentdp < minScore)
-			return false;
 
 		var boo = tapNoteScores[1].innerHTML;
 		var miss = tapNoteScores[6].innerHTML;
@@ -69,8 +73,20 @@ myApp.controller('myCtrl', function($scope, $http) {
 			off: boo,
 			miss: miss,
 			diff: grade,
-			grade: percentdp*100
+			grade: percentdp*100,
+			tier: 'normal'
 		}
+
+		if(name != playerName)
+			return false;
+
+		if(HARDSONGS.indexOf(datum.name) >= 0){
+			datum.tier = 'hard';
+			return datum;
+		}
+		else if(percentdp < minScore)
+			return false;
+
 
 		for(var i = 0; i < $scope.scores.length; i = i + 1){
 			if($scope.scores[i].name === datum.name &&
@@ -86,13 +102,17 @@ myApp.controller('myCtrl', function($scope, $http) {
 	$scope.readXML = function(xmlString) {
 		var xmlDoc = jQuery.parseXML(xmlString);
 		var xml = $( xmlDoc );
-		var allScores = document.evaluate('/Stats/SongScores/*/Steps[@Difficulty="Hard" and @StepsType="dance-single"]', xmlDoc, null, XPathResult.ANY_TYPE);
+		var allScores = document.evaluate('/Stats/SongScores/*/Steps[(@Difficulty="Hard" or @Difficulty="Challenge") and @StepsType="dance-single"]', xmlDoc, null, XPathResult.ANY_TYPE);
                 var item = allScores.iterateNext();
 		while(item != null){
 			var output = pullSongData(item, "BAW", 0.95);
-			if(output !== false)
-				$scope.scores.push(output);
+			if(output !== false){
+				if(output.tier === 'normal')
+					$scope.scores.push(output);
+				else
+					$scope.hardScores.push(output);
 				console.log(output);
+			}
 
 			item = allScores.iterateNext();
 		}
@@ -118,6 +138,8 @@ myApp.controller('myCtrl', function($scope, $http) {
 
 	}
 
+	$scope.scores = [];
+	$scope.hardScores = [];
 
 	$http.get('./data/ddr.csv').success($scope.readScore);
 	$http.get('./data/STATS.XML').success($scope.readXML);

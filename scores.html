@@ -64,10 +64,18 @@
   </div>
   <body ng-app="myApp" ng-controller="myCtrl">
 <main>
+
 	  <div class="parallax-container">
 	      <div class="parallax"><img src="images/ddr.jpg"></div>
 <div class="row section">
-	<div class="col s12">
+    <div class="col s12">
+      <ul class="tabs">
+        <li class="tab col s3"><a class="active" href="#normal">Normal Songs</a></li>
+        <li class="tab col s3"><a href="#boss">Boss Songs</a></li>
+      </ul>
+    </div>
+    <!-- Normal Songs -->
+	<div id ="normal" class="col s12">
 	<p class="center" style="background: rgba(0,0,0,0.5);">This is a list of some of my best scores in DDR. I know it's not much, but they're mine.</p>
 <table class="responsive-table">
 	<thead>
@@ -97,6 +105,39 @@
 	</tbody>
 </table>
 	</div>
+
+	<!-- Boss Songs -->
+	<div id ="boss" class="col s12">
+	<p class="center" style="background: rgba(0,0,0,0.5);">This is a list of some of my best scores in DDR. I know it's not much, but they're mine.</p>
+<table class="responsive-table">
+	<thead>
+		<th class="wideRow" style="width: 256px;"></th>
+              <th style="padding-left: 20px;">Song Name</th>
+	      <th class="truncate2">Grade (ITG Scoring)</th>
+              <th>Marvelous</th>
+              <th>Perfect</th>
+              <th>Great</th>
+              <th>Good</th>
+              <th>Way Off</th>
+              <th>Miss</th>
+	</thead>
+	<tbody>
+		<tr ng-repeat="x in hardScores | orderBy:'grade':-1">
+			<td class="wideRow"><img ng-src="images/{{x.name}}.png"></img></td>
+			<td class="truncate2" ng-class="{gold: x.gr8 + x.good + x.off + x.miss == 0}">{{ x.name }}</td>
+			<td ng-class="{gold: x.gr8 + x.good + x.off + x.miss == 0}"><span ng-if="x.grade > 96">&#9733 </span>{{ x.grade | number : 2 }}%</td>
+			<td>{{ x.mar }}</td>
+			<td>{{ x.per }}</td>
+			<td>{{ x.gr8 }}</td>
+			<td>{{ x.good }}</td>
+			<td>{{ x.off }}</td>
+			<td>{{ x.miss }}</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
 	</div>
 </div>
 </main>
