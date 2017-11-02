@@ -26,6 +26,10 @@
 <CaloriesBurned Date='2017-10-16' >1190.174805</CaloriesBurned>
 <CaloriesBurned Date='2017-10-18' >2819.924072</CaloriesBurned>
 <CaloriesBurned Date='2017-10-20' >2305.964844</CaloriesBurned>
+<CaloriesBurned Date='2017-10-21' >2010.097900</CaloriesBurned>
+<CaloriesBurned Date='2017-10-24' >3372.172119</CaloriesBurned>
+<CaloriesBurned Date='2017-10-25' >2858.692871</CaloriesBurned>
+<CaloriesBurned Date='2017-11-01' >2195.011963</CaloriesBurned>
 </CalorieData>
 <CategoryScores/>
 <CourseScores>
@@ -212,11 +216,11 @@
 </CourseScores>
 <GeneralData>
 <Course Path='Courses/Survival/Decelerated.crs' />
-<CurrentCombo>5</CurrentCombo>
+<CurrentCombo>103</CurrentCombo>
 <Data>local tab1 = { }
 return tab1</Data>
 <DefaultModifiers>
-<dance>3.1x, metal</dance>
+<dance>3.7x, metal</dance>
 <pump>4x</pump>
 </DefaultModifiers>
 <DisplayName>BAW</DisplayName>
@@ -228,79 +232,80 @@ return tab1</Data>
 <IsWeightSet>0</IsWeightSet>
 <LastCourseDifficulty>Regular</LastCourseDifficulty>
 <LastDifficulty>Hard</LastDifficulty>
-<LastPlayedDate>2017-10-20</LastPlayedDate>
+<LastPlayedDate>2017-11-01</LastPlayedDate>
 <LastPlayedMachineGuid>9de5f5cbbed770bc</LastPlayedMachineGuid>
 <NumExtraStagesFailed>0</NumExtraStagesFailed>
 <NumExtraStagesPassed>0</NumExtraStagesPassed>
 <NumSongsPlayedByDifficulty>
 <Beginner>26</Beginner>
-<Challenge>56</Challenge>
+<Challenge>68</Challenge>
 <Easy>22</Easy>
-<Hard>629</Hard>
-<Medium>61</Medium>
+<Hard>770</Hard>
+<Medium>64</Medium>
 </NumSongsPlayedByDifficulty>
 <NumSongsPlayedByMeter>
 <Meter1>16</Meter1>
-<Meter10>70</Meter10>
-<Meter11>117</Meter11>
-<Meter12>111</Meter12>
-<Meter13>75</Meter13>
+<Meter10>92</Meter10>
+<Meter11>146</Meter11>
+<Meter12>137</Meter12>
+<Meter13>93</Meter13>
 <Meter2>7</Meter2>
 <Meter3>19</Meter3>
 <Meter4>7</Meter4>
-<Meter5>15</Meter5>
-<Meter6>33</Meter6>
-<Meter7>138</Meter7>
-<Meter8>97</Meter8>
-<Meter9>89</Meter9>
+<Meter5>16</Meter5>
+<Meter6>36</Meter6>
+<Meter7>167</Meter7>
+<Meter8>109</Meter8>
+<Meter9>105</Meter9>
 </NumSongsPlayedByMeter>
 <NumSongsPlayedByPlayMode>
 <Nonstop>1</Nonstop>
 <Oni>5</Oni>
 <Rave>18</Rave>
-<Regular>770</Regular>
+<Regular>926</Regular>
 </NumSongsPlayedByPlayMode>
 <NumSongsPlayedByStyle>
-<Style Game='dance' Style='double' >105</Style>
-<Style Game='dance' Style='single' >457</Style>
+<Style Game='dance' Style='double' >114</Style>
+<Style Game='dance' Style='single' >604</Style>
 <Style Game='dance' Style='versus' >232</Style>
 </NumSongsPlayedByStyle>
 <NumStagesPassedByGrade>
 <Failed>19</Failed>
-<Tier04>62</Tier04>
-<Tier05>141</Tier05>
-<Tier06>124</Tier06>
-<Tier07>129</Tier07>
-<Tier08>60</Tier08>
-<Tier09>54</Tier09>
-<Tier10>26</Tier10>
-<Tier11>29</Tier11>
+<Tier03>1</Tier03>
+<Tier04>98</Tier04>
+<Tier05>194</Tier05>
+<Tier06>151</Tier06>
+<Tier07>142</Tier07>
+<Tier08>64</Tier08>
+<Tier09>58</Tier09>
+<Tier10>31</Tier10>
+<Tier11>32</Tier11>
 <Tier12>20</Tier12>
 <Tier13>11</Tier13>
 <Tier14>11</Tier14>
 <Tier16>5</Tier16>
-<Tier17>23</Tier17>
+<Tier17>26</Tier17>
 </NumStagesPassedByGrade>
 <NumStagesPassedByPlayMode>
 <Oni>2</Oni>
 <Rave>15</Rave>
-<Regular>697</Regular>
+<Regular>846</Regular>
 </NumStagesPassedByPlayMode>
-<NumToasties>43</NumToasties>
-<NumTotalSongsPlayed>794</NumTotalSongsPlayed>
-<Song Dir='@mc1/In The Groove 2/Songs/DDR2013/Kiken na kajitsu/' />
+<NumToasties>66</NumToasties>
+<NumTotalSongsPlayed>950</NumTotalSongsPlayed>
+<Song Dir='Songs/DDR SuperNOVA/Tino&apos;s White Horse/' />
 <SortOrder>Group</SortOrder>
-<TotalCaloriesBurned>46997.140625</TotalCaloriesBurned>
-<TotalDancePoints>1013885</TotalDancePoints>
-<TotalGameplaySeconds>75524</TotalGameplaySeconds>
+<TotalCaloriesBurned>57433.140625</TotalCaloriesBurned>
+<TotalDancePoints>1252344</TotalDancePoints>
+<TotalGameplaySeconds>90366</TotalGameplaySeconds>
 <TotalHands>28</TotalHands>
-<TotalHolds>11075</TotalHolds>
-<TotalJumps>18282</TotalJumps>
+<TotalHolds>12888</TotalHolds>
+<TotalJumps>22449</TotalJumps>
 <TotalMines>918</TotalMines>
-<TotalPlaySeconds>140595</TotalPlaySeconds>
-<TotalPlays>284</TotalPlays>
+<TotalPlaySeconds>165639</TotalPlaySeconds>
+<TotalPlays>338</TotalPlays>
 <TotalRolls>20</TotalRolls>
-<TotalTapsAndHolds>226232</TotalTapsAndHolds>
+<TotalTapsAndHolds>276067</TotalTapsAndHolds>
 <UnlockedSongs/>
 </GeneralData>
 <RecentCourseScores>
@@ -542,280 +547,46 @@ return tab1</Data>
 <RecentSongScores>
 <HighScoreForASongAndSteps>
 <HighScore>
-<DateTime>2017-10-20 19:03:12</DateTime>
-<Grade>Tier06</Grade>
-<HoldNoteScores>
-<NG>1</NG>
-<OK>7</OK>
-</HoldNoteScores>
-<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-<MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>2.5x, Overhead, metal</Modifiers>
-<Name/>
-<PercentDP>0.933550</PercentDP>
-<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
-<ProductID>5</ProductID>
-<RadarValues>
-<Hands>0</Hands>
-<Holds>7</Holds>
-<Jumps>24</Jumps>
-<Mines>0</Mines>
-<Rolls>0</Rolls>
-<Taps>299</Taps>
-</RadarValues>
-<Score>96359829</Score>
-<SurviveSeconds>82.970634</SurviveSeconds>
-<TapNoteScores>
-<AvoidMine>0</AvoidMine>
-<Boo>0</Boo>
-<Good>0</Good>
-<Great>7</Great>
-<HitMine>0</HitMine>
-<Marvelous>216</Marvelous>
-<Miss>0</Miss>
-<Perfect>76</Perfect>
-</TapNoteScores>
-</HighScore>
-<Song Dir='Songs/DDR SuperNOVA/Gekkou chou/' />
-<Steps Difficulty='Hard' StepsType='dance-single' />
-</HighScoreForASongAndSteps>
-<HighScoreForASongAndSteps>
-<HighScore>
-<DateTime>2017-10-20 19:08:21</DateTime>
+<DateTime>2017-11-01 18:30:20</DateTime>
 <Grade>Tier05</Grade>
 <HoldNoteScores>
 <NG>0</NG>
-<OK>0</OK>
+<OK>43</OK>
 </HoldNoteScores>
 <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>3.5x, Overhead, metal</Modifiers>
+<Modifiers>3x, Overhead, metal</Modifiers>
 <Name/>
-<PercentDP>0.952490</PercentDP>
+<PercentDP>0.957604</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
 <Hands>0</Hands>
-<Holds>0</Holds>
-<Jumps>8</Jumps>
+<Holds>43</Holds>
+<Jumps>48</Jumps>
 <Mines>0</Mines>
 <Rolls>0</Rolls>
-<Taps>261</Taps>
+<Taps>391</Taps>
 </RadarValues>
-<Score>87444854</Score>
-<SurviveSeconds>97.800812</SurviveSeconds>
+<Score>97879760</Score>
+<SurviveSeconds>112.995117</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
 <Boo>0</Boo>
 <Good>0</Good>
-<Great>5</Great>
+<Great>3</Great>
 <HitMine>0</HitMine>
-<Marvelous>209</Marvelous>
+<Marvelous>305</Marvelous>
 <Miss>0</Miss>
-<Perfect>47</Perfect>
+<Perfect>83</Perfect>
 </TapNoteScores>
 </HighScore>
-<Song Dir='Songs/DDR SuperNOVA/My Only Shining Star/' />
+<Song Dir='@mc1/In The Groove 2/Songs/DDR2013/Beautiful Dream/' />
 <Steps Difficulty='Hard' StepsType='dance-single' />
 </HighScoreForASongAndSteps>
 <HighScoreForASongAndSteps>
 <HighScore>
-<DateTime>2017-10-20 19:10:24</DateTime>
-<Grade>Tier06</Grade>
-<HoldNoteScores>
-<NG>0</NG>
-<OK>9</OK>
-</HoldNoteScores>
-<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-<MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>3.1x, Overhead, metal</Modifiers>
-<Name/>
-<PercentDP>0.931935</PercentDP>
-<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
-<ProductID>5</ProductID>
-<RadarValues>
-<Hands>0</Hands>
-<Holds>9</Holds>
-<Jumps>13</Jumps>
-<Mines>0</Mines>
-<Rolls>0</Rolls>
-<Taps>420</Taps>
-</RadarValues>
-<Score>95518949</Score>
-<SurviveSeconds>89.831718</SurviveSeconds>
-<TapNoteScores>
-<AvoidMine>0</AvoidMine>
-<Boo>0</Boo>
-<Good>0</Good>
-<Great>15</Great>
-<HitMine>0</HitMine>
-<Marvelous>304</Marvelous>
-<Miss>0</Miss>
-<Perfect>101</Perfect>
-</TapNoteScores>
-</HighScore>
-<Song Dir='Songs/DDR SuperNOVA/No.13/' />
-<Steps Difficulty='Hard' StepsType='dance-single' />
-</HighScoreForASongAndSteps>
-<HighScoreForASongAndSteps>
-<HighScore>
-<DateTime>2017-10-20 19:12:52</DateTime>
-<Grade>Tier04</Grade>
-<HoldNoteScores>
-<NG>0</NG>
-<OK>45</OK>
-</HoldNoteScores>
-<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-<MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>4.2x, Overhead, metal</Modifiers>
-<Name/>
-<PercentDP>0.960618</PercentDP>
-<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
-<ProductID>5</ProductID>
-<RadarValues>
-<Hands>0</Hands>
-<Holds>45</Holds>
-<Jumps>10</Jumps>
-<Mines>0</Mines>
-<Rolls>0</Rolls>
-<Taps>214</Taps>
-</RadarValues>
-<Score>78028150</Score>
-<SurviveSeconds>96.824051</SurviveSeconds>
-<TapNoteScores>
-<AvoidMine>0</AvoidMine>
-<Boo>0</Boo>
-<Good>0</Good>
-<Great>1</Great>
-<HitMine>0</HitMine>
-<Marvelous>165</Marvelous>
-<Miss>0</Miss>
-<Perfect>48</Perfect>
-</TapNoteScores>
-</HighScore>
-<Song Dir='Songs/DDR SuperNOVA/Saturday Night Love/' />
-<Steps Difficulty='Hard' StepsType='dance-single' />
-</HighScoreForASongAndSteps>
-<HighScoreForASongAndSteps>
-<HighScore>
-<DateTime>2017-10-20 19:15:33</DateTime>
-<Grade>Tier05</Grade>
-<HoldNoteScores>
-<NG>1</NG>
-<OK>20</OK>
-</HoldNoteScores>
-<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-<MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>3.2x, Overhead, metal</Modifiers>
-<Name/>
-<PercentDP>0.948624</PercentDP>
-<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
-<ProductID>5</ProductID>
-<RadarValues>
-<Hands>0</Hands>
-<Holds>20</Holds>
-<Jumps>0</Jumps>
-<Mines>0</Mines>
-<Rolls>0</Rolls>
-<Taps>197</Taps>
-</RadarValues>
-<Score>96425796</Score>
-<SurviveSeconds>89.437874</SurviveSeconds>
-<TapNoteScores>
-<AvoidMine>0</AvoidMine>
-<Boo>0</Boo>
-<Good>0</Good>
-<Great>4</Great>
-<HitMine>0</HitMine>
-<Marvelous>154</Marvelous>
-<Miss>0</Miss>
-<Perfect>39</Perfect>
-</TapNoteScores>
-</HighScore>
-<Song Dir='Songs/DDR SuperNOVA/Under the Sky/' />
-<Steps Difficulty='Hard' StepsType='dance-single' />
-</HighScoreForASongAndSteps>
-<HighScoreForASongAndSteps>
-<HighScore>
-<DateTime>2017-10-20 19:19:09</DateTime>
-<Grade>Tier05</Grade>
-<HoldNoteScores>
-<NG>0</NG>
-<OK>27</OK>
-</HoldNoteScores>
-<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-<MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>3.25x, Overhead, metal</Modifiers>
-<Name/>
-<PercentDP>0.959102</PercentDP>
-<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
-<ProductID>5</ProductID>
-<RadarValues>
-<Hands>0</Hands>
-<Holds>27</Holds>
-<Jumps>47</Jumps>
-<Mines>0</Mines>
-<Rolls>0</Rolls>
-<Taps>374</Taps>
-</RadarValues>
-<Score>97228574</Score>
-<SurviveSeconds>105.764572</SurviveSeconds>
-<TapNoteScores>
-<AvoidMine>0</AvoidMine>
-<Boo>0</Boo>
-<Good>0</Good>
-<Great>6</Great>
-<HitMine>0</HitMine>
-<Marvelous>304</Marvelous>
-<Miss>0</Miss>
-<Perfect>64</Perfect>
-</TapNoteScores>
-</HighScore>
-<Song Dir='Songs/DDR SuperNOVA 2/Blind Justice ~Torn souls Hurt Faiths~/' />
-<Steps Difficulty='Hard' StepsType='dance-single' />
-</HighScoreForASongAndSteps>
-<HighScoreForASongAndSteps>
-<HighScore>
-<DateTime>2017-10-20 19:26:03</DateTime>
-<Grade>Tier04</Grade>
-<HoldNoteScores>
-<NG>1</NG>
-<OK>26</OK>
-</HoldNoteScores>
-<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-<MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>3.3x, Overhead, metal</Modifiers>
-<Name/>
-<PercentDP>0.961596</PercentDP>
-<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
-<ProductID>5</ProductID>
-<RadarValues>
-<Hands>0</Hands>
-<Holds>26</Holds>
-<Jumps>47</Jumps>
-<Mines>0</Mines>
-<Rolls>0</Rolls>
-<Taps>374</Taps>
-</RadarValues>
-<Score>96889367</Score>
-<SurviveSeconds>105.763657</SurviveSeconds>
-<TapNoteScores>
-<AvoidMine>0</AvoidMine>
-<Boo>0</Boo>
-<Good>0</Good>
-<Great>5</Great>
-<HitMine>0</HitMine>
-<Marvelous>312</Marvelous>
-<Miss>0</Miss>
-<Perfect>57</Perfect>
-</TapNoteScores>
-</HighScore>
-<Song Dir='Songs/DDR SuperNOVA 2/Blind Justice ~Torn souls Hurt Faiths~/' />
-<Steps Difficulty='Hard' StepsType='dance-single' />
-</HighScoreForASongAndSteps>
-<HighScoreForASongAndSteps>
-<HighScore>
-<DateTime>2017-10-20 19:29:15</DateTime>
+<DateTime>2017-11-01 18:33:16</DateTime>
 <Grade>Tier05</Grade>
 <HoldNoteScores>
 <NG>0</NG>
@@ -823,506 +594,826 @@ return tab1</Data>
 </HoldNoteScores>
 <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>3.7x, Overhead, metal</Modifiers>
+<Modifiers>2.6x, Overhead, metal</Modifiers>
 <Name/>
-<PercentDP>0.948344</PercentDP>
+<PercentDP>0.954242</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
 <Hands>0</Hands>
 <Holds>11</Holds>
-<Jumps>11</Jumps>
+<Jumps>50</Jumps>
 <Mines>0</Mines>
 <Rolls>0</Rolls>
-<Taps>291</Taps>
+<Taps>378</Taps>
 </RadarValues>
-<Score>96756491</Score>
-<SurviveSeconds>103.839920</SurviveSeconds>
-<TapNoteScores>
-<AvoidMine>0</AvoidMine>
-<Boo>0</Boo>
-<Good>0</Good>
-<Great>7</Great>
-<HitMine>0</HitMine>
-<Marvelous>227</Marvelous>
-<Miss>0</Miss>
-<Perfect>57</Perfect>
-</TapNoteScores>
-</HighScore>
-<Song Dir='Songs/DDR SuperNOVA 2/JUPITER The Bringer of Jollity/' />
-<Steps Difficulty='Hard' StepsType='dance-single' />
-</HighScoreForASongAndSteps>
-<HighScoreForASongAndSteps>
-<HighScore>
-<DateTime>2017-10-20 19:32:10</DateTime>
-<Grade>Tier06</Grade>
-<HoldNoteScores>
-<NG>0</NG>
-<OK>10</OK>
-</HoldNoteScores>
-<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-<MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>3.7x, Overhead, metal</Modifiers>
-<Name/>
-<PercentDP>0.933913</PercentDP>
-<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
-<ProductID>5</ProductID>
-<RadarValues>
-<Hands>0</Hands>
-<Holds>10</Holds>
-<Jumps>44</Jumps>
-<Mines>0</Mines>
-<Rolls>0</Rolls>
-<Taps>335</Taps>
-</RadarValues>
-<Score>96152808</Score>
-<SurviveSeconds>89.154976</SurviveSeconds>
+<Score>97493247</Score>
+<SurviveSeconds>115.937401</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
 <Boo>0</Boo>
 <Good>0</Good>
 <Great>9</Great>
 <HitMine>0</HitMine>
-<Marvelous>239</Marvelous>
+<Marvelous>307</Marvelous>
 <Miss>0</Miss>
-<Perfect>87</Perfect>
+<Perfect>62</Perfect>
 </TapNoteScores>
 </HighScore>
-<Song Dir='Songs/DDR SuperNOVA 2/Star Gate Heaven (FUTURE LOVE Mix)/' />
+<Song Dir='@mc1/In The Groove 2/Songs/DDR2013/Chikuwa parfait da yo CKP/' />
 <Steps Difficulty='Hard' StepsType='dance-single' />
 </HighScoreForASongAndSteps>
 <HighScoreForASongAndSteps>
 <HighScore>
-<DateTime>2017-10-20 19:35:35</DateTime>
-<Grade>Tier07</Grade>
-<HoldNoteScores>
-<NG>0</NG>
-<OK>23</OK>
-</HoldNoteScores>
-<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-<MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>2.9x, Overhead, metal</Modifiers>
-<Name/>
-<PercentDP>0.903371</PercentDP>
-<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
-<ProductID>5</ProductID>
-<RadarValues>
-<Hands>0</Hands>
-<Holds>23</Holds>
-<Jumps>24</Jumps>
-<Mines>0</Mines>
-<Rolls>0</Rolls>
-<Taps>417</Taps>
-</RadarValues>
-<Score>94798919</Score>
-<SurviveSeconds>102.405968</SurviveSeconds>
-<TapNoteScores>
-<AvoidMine>0</AvoidMine>
-<Boo>1</Boo>
-<Good>1</Good>
-<Great>15</Great>
-<HitMine>0</HitMine>
-<Marvelous>315</Marvelous>
-<Miss>4</Miss>
-<Perfect>86</Perfect>
-</TapNoteScores>
-</HighScore>
-<Song Dir='Songs/DDR SuperNOVA 2/SUNKiSS DROP~jun Side~/' />
-<Steps Difficulty='Hard' StepsType='dance-single' />
-</HighScoreForASongAndSteps>
-<HighScoreForASongAndSteps>
-<HighScore>
-<DateTime>2017-10-20 19:38:18</DateTime>
+<DateTime>2017-11-01 18:36:14</DateTime>
 <Grade>Tier05</Grade>
 <HoldNoteScores>
 <NG>0</NG>
-<OK>8</OK>
+<OK>16</OK>
 </HoldNoteScores>
 <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>3.1x, Overhead, metal</Modifiers>
+<Modifiers>3.5x, Overhead, metal</Modifiers>
 <Name/>
-<PercentDP>0.943787</PercentDP>
+<PercentDP>0.952288</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
 <Hands>0</Hands>
-<Holds>8</Holds>
-<Jumps>33</Jumps>
-<Mines>0</Mines>
-<Rolls>0</Rolls>
-<Taps>330</Taps>
-</RadarValues>
-<Score>96441497</Score>
-<SurviveSeconds>91.740448</SurviveSeconds>
-<TapNoteScores>
-<AvoidMine>0</AvoidMine>
-<Boo>0</Boo>
-<Good>0</Good>
-<Great>8</Great>
-<HitMine>0</HitMine>
-<Marvelous>251</Marvelous>
-<Miss>0</Miss>
-<Perfect>71</Perfect>
-</TapNoteScores>
-</HighScore>
-<Song Dir='Songs/DDR SuperNOVA 2/Why not/' />
-<Steps Difficulty='Hard' StepsType='dance-single' />
-</HighScoreForASongAndSteps>
-<HighScoreForASongAndSteps>
-<HighScore>
-<DateTime>2017-10-20 19:38:45</DateTime>
-<Grade>Tier17</Grade>
-<HoldNoteScores>
-<NG>0</NG>
-<OK>0</OK>
-</HoldNoteScores>
-<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-<MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>3.1x, Overhead, metal</Modifiers>
-<Name/>
-<PercentDP>0.000000</PercentDP>
-<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
-<ProductID>5</ProductID>
-<RadarValues>
-<Hands>0</Hands>
-<Holds>0</Holds>
-<Jumps>0</Jumps>
-<Mines>0</Mines>
-<Rolls>0</Rolls>
-<Taps>0</Taps>
-</RadarValues>
-<Score>0</Score>
-<SurviveSeconds>4.936525</SurviveSeconds>
-<TapNoteScores>
-<AvoidMine>0</AvoidMine>
-<Boo>0</Boo>
-<Good>0</Good>
-<Great>0</Great>
-<HitMine>0</HitMine>
-<Marvelous>0</Marvelous>
-<Miss>0</Miss>
-<Perfect>0</Perfect>
-</TapNoteScores>
-</HighScore>
-<Song Dir='Songs/DDR SuperNOVA 2/Votum stellarum -forest #25 DDR RMX-/' />
-<Steps Difficulty='Hard' StepsType='dance-single' />
-</HighScoreForASongAndSteps>
-<HighScoreForASongAndSteps>
-<HighScore>
-<DateTime>2017-10-20 19:47:25</DateTime>
-<Grade>Tier04</Grade>
-<HoldNoteScores>
-<NG>0</NG>
-<OK>3</OK>
-</HoldNoteScores>
-<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-<MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>3.1x, Overhead, metal</Modifiers>
-<Name/>
-<PercentDP>0.965982</PercentDP>
-<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
-<ProductID>5</ProductID>
-<RadarValues>
-<Hands>0</Hands>
-<Holds>3</Holds>
-<Jumps>24</Jumps>
-<Mines>0</Mines>
-<Rolls>0</Rolls>
-<Taps>338</Taps>
-</RadarValues>
-<Score>78508413</Score>
-<SurviveSeconds>86.374016</SurviveSeconds>
-<TapNoteScores>
-<AvoidMine>0</AvoidMine>
-<Boo>0</Boo>
-<Good>0</Good>
-<Great>3</Great>
-<HitMine>0</HitMine>
-<Marvelous>286</Marvelous>
-<Miss>0</Miss>
-<Perfect>49</Perfect>
-</TapNoteScores>
-</HighScore>
-<Song Dir='Songs/DDR EXTREME/SENORITA(Speedy Mix)/' />
-<Steps Difficulty='Hard' StepsType='dance-single' />
-</HighScoreForASongAndSteps>
-<HighScoreForASongAndSteps>
-<HighScore>
-<DateTime>2017-10-20 19:49:43</DateTime>
-<Grade>Tier04</Grade>
-<HoldNoteScores>
-<NG>0</NG>
-<OK>3</OK>
-</HoldNoteScores>
-<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-<MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>3.1x, Overhead, metal</Modifiers>
-<Name/>
-<PercentDP>0.963050</PercentDP>
-<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
-<ProductID>5</ProductID>
-<RadarValues>
-<Hands>0</Hands>
-<Holds>3</Holds>
-<Jumps>24</Jumps>
-<Mines>0</Mines>
-<Rolls>0</Rolls>
-<Taps>338</Taps>
-</RadarValues>
-<Score>78536814</Score>
-<SurviveSeconds>86.392334</SurviveSeconds>
-<TapNoteScores>
-<AvoidMine>0</AvoidMine>
-<Boo>0</Boo>
-<Good>0</Good>
-<Great>3</Great>
-<HitMine>0</HitMine>
-<Marvelous>281</Marvelous>
-<Miss>0</Miss>
-<Perfect>54</Perfect>
-</TapNoteScores>
-</HighScore>
-<Song Dir='Songs/DDR EXTREME/SENORITA(Speedy Mix)/' />
-<Steps Difficulty='Hard' StepsType='dance-single' />
-</HighScoreForASongAndSteps>
-<HighScoreForASongAndSteps>
-<HighScore>
-<DateTime>2017-10-20 19:51:31</DateTime>
-<Grade>Tier04</Grade>
-<HoldNoteScores>
-<NG>0</NG>
-<OK>3</OK>
-</HoldNoteScores>
-<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-<MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>3.1x, Overhead, metal</Modifiers>
-<Name/>
-<PercentDP>0.960117</PercentDP>
-<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
-<ProductID>5</ProductID>
-<RadarValues>
-<Hands>0</Hands>
-<Holds>3</Holds>
-<Jumps>24</Jumps>
-<Mines>0</Mines>
-<Rolls>0</Rolls>
-<Taps>338</Taps>
-</RadarValues>
-<Score>78273675</Score>
-<SurviveSeconds>86.396538</SurviveSeconds>
-<TapNoteScores>
-<AvoidMine>0</AvoidMine>
-<Boo>0</Boo>
-<Good>0</Good>
-<Great>4</Great>
-<HitMine>0</HitMine>
-<Marvelous>278</Marvelous>
-<Miss>0</Miss>
-<Perfect>56</Perfect>
-</TapNoteScores>
-</HighScore>
-<Song Dir='Songs/DDR EXTREME/SENORITA(Speedy Mix)/' />
-<Steps Difficulty='Hard' StepsType='dance-single' />
-</HighScoreForASongAndSteps>
-<HighScoreForASongAndSteps>
-<HighScore>
-<DateTime>2017-10-20 19:54:52</DateTime>
-<Grade>Tier06</Grade>
-<HoldNoteScores>
-<NG>0</NG>
-<OK>11</OK>
-</HoldNoteScores>
-<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-<MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>3x, Overhead, metal</Modifiers>
-<Name/>
-<PercentDP>0.922152</PercentDP>
-<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
-<ProductID>5</ProductID>
-<RadarValues>
-<Hands>0</Hands>
-<Holds>11</Holds>
+<Holds>16</Holds>
 <Jumps>28</Jumps>
 <Mines>0</Mines>
 <Rolls>0</Rolls>
-<Taps>304</Taps>
+<Taps>290</Taps>
 </RadarValues>
-<Score>94989219</Score>
-<SurviveSeconds>89.542877</SurviveSeconds>
+<Score>96437804</Score>
+<SurviveSeconds>90.645149</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
 <Boo>0</Boo>
-<Good>0</Good>
-<Great>13</Great>
+<Good>1</Good>
+<Great>5</Great>
 <HitMine>0</HitMine>
-<Marvelous>224</Marvelous>
-<Miss>1</Miss>
-<Perfect>67</Perfect>
+<Marvelous>231</Marvelous>
+<Miss>0</Miss>
+<Perfect>53</Perfect>
 </TapNoteScores>
 </HighScore>
-<Song Dir='Songs/DDR EXTREME/LA BAMBA/' />
+<Song Dir='@mc1/In The Groove 2/Songs/DDRX3/Get Back Up!/' />
 <Steps Difficulty='Hard' StepsType='dance-single' />
 </HighScoreForASongAndSteps>
 <HighScoreForASongAndSteps>
 <HighScore>
-<DateTime>2017-10-20 19:57:06</DateTime>
+<DateTime>2017-11-01 18:39:14</DateTime>
 <Grade>Tier04</Grade>
 <HoldNoteScores>
 <NG>0</NG>
-<OK>0</OK>
+<OK>10</OK>
 </HoldNoteScores>
 <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>4x, Overhead, metal</Modifiers>
+<Modifiers>3.25x, Overhead, metal</Modifiers>
 <Name/>
-<PercentDP>0.962105</PercentDP>
+<PercentDP>0.962097</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
 <Hands>0</Hands>
-<Holds>0</Holds>
-<Jumps>31</Jumps>
+<Holds>10</Holds>
+<Jumps>46</Jumps>
 <Mines>0</Mines>
 <Rolls>0</Rolls>
-<Taps>285</Taps>
+<Taps>238</Taps>
 </RadarValues>
-<Score>68498659</Score>
-<SurviveSeconds>88.265823</SurviveSeconds>
+<Score>68413915</Score>
+<SurviveSeconds>80.983383</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
 <Boo>0</Boo>
 <Good>0</Good>
 <Great>2</Great>
 <HitMine>0</HitMine>
-<Marvelous>235</Marvelous>
+<Marvelous>195</Marvelous>
 <Miss>0</Miss>
-<Perfect>48</Perfect>
+<Perfect>41</Perfect>
 </TapNoteScores>
 </HighScore>
-<Song Dir='Songs/DDRMAX 6th MIX/Do It Right/' />
+<Song Dir='Songs/DDRMAX 6th MIX/WWW.BLONDE GIRL (MOMO MIX)/' />
 <Steps Difficulty='Hard' StepsType='dance-single' />
 </HighScoreForASongAndSteps>
 <HighScoreForASongAndSteps>
 <HighScore>
-<DateTime>2017-10-20 20:02:33</DateTime>
+<DateTime>2017-11-01 18:41:57</DateTime>
+<Grade>Tier04</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>1</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>3.4x, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.973066</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>1</Holds>
+<Jumps>30</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>348</Taps>
+</RadarValues>
+<Score>98443714</Score>
+<SurviveSeconds>103.980782</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>0</Good>
+<Great>1</Great>
+<HitMine>0</HitMine>
+<Marvelous>303</Marvelous>
+<Miss>0</Miss>
+<Perfect>44</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/DDR SuperNOVA/Hana Ranman -Flowers-/' />
+<Steps Difficulty='Hard' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2017-11-01 18:44:39</DateTime>
+<Grade>Tier04</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>12</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>3.1x, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.964841</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>12</Holds>
+<Jumps>52</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>335</Taps>
+</RadarValues>
+<Score>68723775</Score>
+<SurviveSeconds>96.706642</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>0</Good>
+<Great>3</Great>
+<HitMine>0</HitMine>
+<Marvelous>280</Marvelous>
+<Miss>0</Miss>
+<Perfect>52</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/DDR SuperNOVA/HONEY PUNCH/' />
+<Steps Difficulty='Hard' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2017-11-01 18:48:52</DateTime>
 <Grade>Tier07</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>9</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>3.9x, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.893438</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>9</Holds>
+<Jumps>22</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>370</Taps>
+</RadarValues>
+<Score>91148488</Score>
+<SurviveSeconds>112.216209</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>0</Good>
+<Great>29</Great>
+<HitMine>0</HitMine>
+<Marvelous>247</Marvelous>
+<Miss>1</Miss>
+<Perfect>94</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='@mc1/In The Groove 2/Songs/DDRX2/What Will Come of Me/' />
+<Steps Difficulty='Hard' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2017-11-01 18:51:18</DateTime>
+<Grade>Tier05</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>9</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>3.2x, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.942929</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>9</Holds>
+<Jumps>33</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>387</Taps>
+</RadarValues>
+<Score>96183876</Score>
+<SurviveSeconds>105.876274</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>0</Good>
+<Great>9</Great>
+<HitMine>0</HitMine>
+<Marvelous>292</Marvelous>
+<Miss>0</Miss>
+<Perfect>86</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='@mc1/In The Groove 2/Songs/DDRX3/Until the End/' />
+<Steps Difficulty='Hard' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2017-11-01 18:54:23</DateTime>
+<Grade>Tier05</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>3</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>3.7x, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.945813</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>3</Holds>
+<Jumps>0</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>403</Taps>
+</RadarValues>
+<Score>96628498</Score>
+<SurviveSeconds>110.057533</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>0</Good>
+<Great>8</Great>
+<HitMine>0</HitMine>
+<Marvelous>309</Marvelous>
+<Miss>0</Miss>
+<Perfect>86</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='@mc1/In The Groove 2/Songs/DDR2013/Tell me what to do/' />
+<Steps Difficulty='Hard' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2017-11-01 18:57:26</DateTime>
+<Grade>Tier10</Grade>
 <HoldNoteScores>
 <NG>0</NG>
 <OK>0</OK>
 </HoldNoteScores>
 <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>4.3x, Overhead, metal</Modifiers>
+<Modifiers>3.2x, Overhead, metal</Modifiers>
 <Name/>
-<PercentDP>0.906529</PercentDP>
+<PercentDP>0.827063</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
 <Hands>0</Hands>
 <Holds>0</Holds>
-<Jumps>25</Jumps>
+<Jumps>20</Jumps>
 <Mines>0</Mines>
 <Rolls>0</Rolls>
-<Taps>289</Taps>
+<Taps>299</Taps>
 </RadarValues>
-<Score>66025018</Score>
-<SurviveSeconds>94.045174</SurviveSeconds>
+<Score>70620663</Score>
+<SurviveSeconds>102.685074</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
-<Boo>0</Boo>
-<Good>0</Good>
-<Great>13</Great>
+<Boo>1</Boo>
+<Good>3</Good>
+<Great>32</Great>
 <HitMine>0</HitMine>
-<Marvelous>213</Marvelous>
-<Miss>2</Miss>
-<Perfect>63</Perfect>
+<Marvelous>175</Marvelous>
+<Miss>3</Miss>
+<Perfect>89</Perfect>
 </TapNoteScores>
 </HighScore>
-<Song Dir='Songs/DDR 5th MIX/I Was The One/' />
-<Steps Difficulty='Hard' StepsType='dance-single' />
+<Song Dir='Songs/DDR 5th MIX/ABSOLUTE/' />
+<Steps Difficulty='Hard' StepsType='dance-double' />
 </HighScoreForASongAndSteps>
 <HighScoreForASongAndSteps>
 <HighScore>
-<DateTime>2017-10-20 20:06:08</DateTime>
-<Grade>Tier06</Grade>
+<DateTime>2017-11-01 18:59:18</DateTime>
+<Grade>Tier09</Grade>
 <HoldNoteScores>
-<NG>1</NG>
-<OK>44</OK>
+<NG>0</NG>
+<OK>0</OK>
 </HoldNoteScores>
 <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>2.6x, Overhead, metal</Modifiers>
+<Modifiers>3.3x, Overhead, metal</Modifiers>
 <Name/>
-<PercentDP>0.931674</PercentDP>
+<PercentDP>0.830328</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
 <Hands>0</Hands>
-<Holds>44</Holds>
-<Jumps>30</Jumps>
+<Holds>0</Holds>
+<Jumps>15</Jumps>
 <Mines>0</Mines>
 <Rolls>0</Rolls>
-<Taps>396</Taps>
+<Taps>239</Taps>
 </RadarValues>
-<Score>94841200</Score>
-<SurviveSeconds>102.950752</SurviveSeconds>
+<Score>63932558</Score>
+<SurviveSeconds>81.022911</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>1</Boo>
+<Good>0</Good>
+<Great>22</Great>
+<HitMine>0</HitMine>
+<Marvelous>155</Marvelous>
+<Miss>4</Miss>
+<Perfect>62</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/DDR 5th MIX/BE TOGETHER/' />
+<Steps Difficulty='Hard' StepsType='dance-double' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2017-11-01 19:01:47</DateTime>
+<Grade>Tier11</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>0</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>3.2x, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.792568</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>0</Holds>
+<Jumps>19</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>288</Taps>
+</RadarValues>
+<Score>61909613</Score>
+<SurviveSeconds>101.624367</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>1</Boo>
+<Good>1</Good>
+<Great>34</Great>
+<HitMine>0</HitMine>
+<Marvelous>183</Marvelous>
+<Miss>7</Miss>
+<Perfect>70</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/DDR 5th MIX/ECSTASY/' />
+<Steps Difficulty='Hard' StepsType='dance-double' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2017-11-01 19:09:57</DateTime>
+<Grade>Tier06</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>22</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>3.2x, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.935123</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>22</Holds>
+<Jumps>17</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>425</Taps>
+</RadarValues>
+<Score>96778227</Score>
+<SurviveSeconds>105.492607</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
 <Boo>0</Boo>
 <Good>0</Good>
 <Great>17</Great>
 <HitMine>0</HitMine>
-<Marvelous>301</Marvelous>
-<Miss>1</Miss>
-<Perfect>78</Perfect>
+<Marvelous>314</Marvelous>
+<Miss>0</Miss>
+<Perfect>94</Perfect>
 </TapNoteScores>
 </HighScore>
-<Song Dir='@mc1/In The Groove 2/Songs/DDRX3/Shizuku/' />
+<Song Dir='Songs/DDR EXTREME/DAIKENKAI/' />
 <Steps Difficulty='Hard' StepsType='dance-single' />
 </HighScoreForASongAndSteps>
 <HighScoreForASongAndSteps>
 <HighScore>
-<DateTime>2017-10-20 20:08:42</DateTime>
-<Grade>Tier07</Grade>
+<DateTime>2017-11-01 19:12:11</DateTime>
+<Grade>Tier06</Grade>
+<HoldNoteScores>
+<NG>1</NG>
+<OK>35</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>4x, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.938745</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>35</Holds>
+<Jumps>9</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>234</Taps>
+</RadarValues>
+<Score>67869575</Score>
+<SurviveSeconds>92.331879</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>0</Good>
+<Great>4</Great>
+<HitMine>0</HitMine>
+<Marvelous>181</Marvelous>
+<Miss>1</Miss>
+<Perfect>49</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/DDR EXTREME/Do It Right(Harmonized 2Step Mix)/' />
+<Steps Difficulty='Hard' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2017-11-01 19:14:49</DateTime>
+<Grade>Tier05</Grade>
 <HoldNoteScores>
 <NG>0</NG>
-<OK>14</OK>
+<OK>4</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>3.5x, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.949373</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>4</Holds>
+<Jumps>9</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>395</Taps>
+</RadarValues>
+<Score>97620174</Score>
+<SurviveSeconds>106.995728</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>0</Good>
+<Great>7</Great>
+<HitMine>0</HitMine>
+<Marvelous>308</Marvelous>
+<Miss>0</Miss>
+<Perfect>80</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/DDR EXTREME/Frozen Ray(for EXTREME)/' />
+<Steps Difficulty='Hard' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2017-11-01 19:18:02</DateTime>
+<Grade>Tier10</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>1</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>2.5x, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.809868</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>1</Holds>
+<Jumps>13</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>294</Taps>
+</RadarValues>
+<Score>62704511</Score>
+<SurviveSeconds>91.886871</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>4</Boo>
+<Good>2</Good>
+<Great>17</Great>
+<HitMine>0</HitMine>
+<Marvelous>176</Marvelous>
+<Miss>5</Miss>
+<Perfect>99</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/DDR SuperNOVA/Baby&apos;s Tears/' />
+<Steps Difficulty='Hard' StepsType='dance-double' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2017-11-01 19:20:09</DateTime>
+<Grade>Tier10</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>7</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>3.5x, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.821453</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>7</Holds>
+<Jumps>19</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>277</Taps>
+</RadarValues>
+<Score>89525360</Score>
+<SurviveSeconds>90.290680</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>3</Boo>
+<Good>1</Good>
+<Great>32</Great>
+<HitMine>0</HitMine>
+<Marvelous>154</Marvelous>
+<Miss>2</Miss>
+<Perfect>90</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/DDR SuperNOVA/Brazilian Anthem/' />
+<Steps Difficulty='Hard' StepsType='dance-double' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2017-11-01 19:24:49</DateTime>
+<Grade>Tier03</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>16</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>2.7x, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.982716</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>16</Holds>
+<Jumps>29</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>389</Taps>
+</RadarValues>
+<Score>98941189</Score>
+<SurviveSeconds>103.233849</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>0</Good>
+<Great>1</Great>
+<HitMine>0</HitMine>
+<Marvelous>356</Marvelous>
+<Miss>0</Miss>
+<Perfect>32</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/DDR SuperNOVA 2/MARS WAR 3/' />
+<Steps Difficulty='Hard' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2017-11-01 19:27:45</DateTime>
+<Grade>Tier04</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>3</OK>
 </HoldNoteScores>
 <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
 <Modifiers>3.1x, Overhead, metal</Modifiers>
 <Name/>
-<PercentDP>0.896347</PercentDP>
+<PercentDP>0.960704</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
 <Hands>0</Hands>
-<Holds>14</Holds>
-<Jumps>21</Jumps>
+<Holds>3</Holds>
+<Jumps>24</Jumps>
 <Mines>0</Mines>
 <Rolls>0</Rolls>
-<Taps>419</Taps>
+<Taps>338</Taps>
 </RadarValues>
-<Score>93586512</Score>
-<SurviveSeconds>107.433571</SurviveSeconds>
+<Score>78263525</Score>
+<SurviveSeconds>86.397057</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
 <Boo>0</Boo>
-<Good>1</Good>
-<Great>10</Great>
+<Good>0</Good>
+<Great>3</Great>
 <HitMine>0</HitMine>
-<Marvelous>301</Marvelous>
-<Miss>5</Miss>
-<Perfect>107</Perfect>
+<Marvelous>277</Marvelous>
+<Miss>0</Miss>
+<Perfect>58</Perfect>
 </TapNoteScores>
 </HighScore>
-<Song Dir='@mc1/In The Groove 2/Songs/DDR2013/Kiken na kajitsu/' />
+<Song Dir='Songs/DDR EXTREME/SENORITA(Speedy Mix)/' />
+<Steps Difficulty='Hard' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2017-11-01 19:30:18</DateTime>
+<Grade>Tier07</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>5</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>3.7x, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.917045</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>5</Holds>
+<Jumps>1</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>346</Taps>
+</RadarValues>
+<Score>94588266</Score>
+<SurviveSeconds>94.485138</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>0</Good>
+<Great>16</Great>
+<HitMine>0</HitMine>
+<Marvelous>249</Marvelous>
+<Miss>1</Miss>
+<Perfect>81</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/DDR SuperNOVA/Tino&apos;s White Horse/' />
 <Steps Difficulty='Hard' StepsType='dance-single' />
 </HighScoreForASongAndSteps>
 </RecentSongScores>
 <ScreenshotData/>
 <SongScores>
+<Song Dir='@mc1/In The Groove 2/Songs/DDR2013/ACROSS WORLD/' >
+<Steps Difficulty='Hard' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2017-10-24 18:46:58</DateTime>
+<Grade>Tier05</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>4</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>2.9x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.941144</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>4</Holds>
+<Jumps>23</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>361</Taps>
+</RadarValues>
+<Score>96518782</Score>
+<SurviveSeconds>101.107887</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>1</Boo>
+<Good>1</Good>
+<Great>6</Great>
+<HitMine>0</HitMine>
+<Marvelous>297</Marvelous>
+<Miss>1</Miss>
+<Perfect>57</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-10-24</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='@mc1/In The Groove 2/Songs/DDR2013/Ah La La La/' >
+<Steps Difficulty='Hard' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2017-10-24 18:49:14</DateTime>
+<Grade>Tier06</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>8</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>4.1x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.932523</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>8</Holds>
+<Jumps>10</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>321</Taps>
+</RadarValues>
+<Score>94950906</Score>
+<SurviveSeconds>91.452690</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>1</Good>
+<Great>13</Great>
+<HitMine>0</HitMine>
+<Marvelous>240</Marvelous>
+<Miss>0</Miss>
+<Perfect>67</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-10-24</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
 <Song Dir='@mc1/In The Groove 2/Songs/DDR2013/BRIGHT STREAM/' >
 <Steps Difficulty='Hard' StepsType='dance-double' >
 <HighScoreList>
@@ -1446,6 +1537,92 @@ return tab1</Data>
 </TapNoteScores>
 </HighScore>
 <LastPlayed>2017-10-08</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='@mc1/In The Groove 2/Songs/DDR2013/Beautiful Dream/' >
+<Steps Difficulty='Hard' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2017-11-01 18:30:20</DateTime>
+<Grade>Tier05</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>43</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>3x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.957604</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>43</Holds>
+<Jumps>48</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>391</Taps>
+</RadarValues>
+<Score>97879760</Score>
+<SurviveSeconds>112.995117</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>0</Good>
+<Great>3</Great>
+<HitMine>0</HitMine>
+<Marvelous>305</Marvelous>
+<Miss>0</Miss>
+<Perfect>83</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-11-01</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='@mc1/In The Groove 2/Songs/DDR2013/Chikuwa parfait da yo CKP/' >
+<Steps Difficulty='Hard' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2017-11-01 18:33:16</DateTime>
+<Grade>Tier05</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>11</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>2.6x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.954242</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>11</Holds>
+<Jumps>50</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>378</Taps>
+</RadarValues>
+<Score>97493247</Score>
+<SurviveSeconds>115.937401</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>0</Good>
+<Great>9</Great>
+<HitMine>0</HitMine>
+<Marvelous>307</Marvelous>
+<Miss>0</Miss>
+<Perfect>62</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-11-01</LastPlayed>
 <NumTimesPlayed>1</NumTimesPlayed>
 </HighScoreList>
 </Steps>
@@ -1749,6 +1926,49 @@ return tab1</Data>
 </HighScoreList>
 </Steps>
 </Song>
+<Song Dir='@mc1/In The Groove 2/Songs/DDR2013/Find The Way/' >
+<Steps Difficulty='Hard' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2017-10-25 19:33:10</DateTime>
+<Grade>Tier08</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>14</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>3.3x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.886893</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>14</Holds>
+<Jumps>30</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>393</Taps>
+</RadarValues>
+<Score>94193447</Score>
+<SurviveSeconds>105.585854</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>1</Boo>
+<Good>1</Good>
+<Great>18</Great>
+<HitMine>0</HitMine>
+<Marvelous>279</Marvelous>
+<Miss>4</Miss>
+<Perfect>95</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-10-25</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
 <Song Dir='@mc1/In The Groove 2/Songs/DDR2013/Furisodation/' >
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
@@ -1792,6 +2012,49 @@ return tab1</Data>
 </HighScoreList>
 </Steps>
 </Song>
+<Song Dir='@mc1/In The Groove 2/Songs/DDR2013/Hoping To Be Good/' >
+<Steps Difficulty='Hard' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2017-10-25 19:39:30</DateTime>
+<Grade>Tier07</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>2</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>4.5x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.908527</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>2</Holds>
+<Jumps>1</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>255</Taps>
+</RadarValues>
+<Score>93937920</Score>
+<SurviveSeconds>86.733841</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>0</Good>
+<Great>16</Great>
+<HitMine>0</HitMine>
+<Marvelous>186</Marvelous>
+<Miss>1</Miss>
+<Perfect>53</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-10-25</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
 <Song Dir='@mc1/In The Groove 2/Songs/DDR2013/JoJo ~Sono Chi no Sadame~/' >
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
@@ -1830,8 +2093,8 @@ return tab1</Data>
 <Perfect>78</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-16</LastPlayed>
-<NumTimesPlayed>3</NumTimesPlayed>
+<LastPlayed>2017-10-21</LastPlayed>
+<NumTimesPlayed>4</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 <Steps Difficulty='Medium' StepsType='dance-double' >
@@ -2531,6 +2794,49 @@ return tab1</Data>
 </HighScoreList>
 </Steps>
 </Song>
+<Song Dir='@mc1/In The Groove 2/Songs/DDR2013/Tell me what to do/' >
+<Steps Difficulty='Hard' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2017-11-01 18:54:23</DateTime>
+<Grade>Tier05</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>3</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>3.7x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.945813</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>3</Holds>
+<Jumps>0</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>403</Taps>
+</RadarValues>
+<Score>96628498</Score>
+<SurviveSeconds>110.057533</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>0</Good>
+<Great>8</Great>
+<HitMine>0</HitMine>
+<Marvelous>309</Marvelous>
+<Miss>0</Miss>
+<Perfect>86</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-11-01</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
 <Song Dir='@mc1/In The Groove 2/Songs/DDR2013/Top The Charts/' >
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
@@ -2706,8 +3012,8 @@ return tab1</Data>
 <Perfect>196</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-20</LastPlayed>
-<NumTimesPlayed>3</NumTimesPlayed>
+<LastPlayed>2017-10-25</LastPlayed>
+<NumTimesPlayed>8</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -2799,42 +3105,42 @@ return tab1</Data>
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
 <HighScore>
-<DateTime>2017-09-29 19:01:10</DateTime>
-<Grade>Tier07</Grade>
+<DateTime>2017-10-21 16:58:00</DateTime>
+<Grade>Tier04</Grade>
 <HoldNoteScores>
-<NG>1</NG>
-<OK>28</OK>
+<NG>0</NG>
+<OK>29</OK>
 </HoldNoteScores>
 <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>3.1x, Overhead, vivid</Modifiers>
+<Modifiers>3.4x, Overhead, metal</Modifiers>
 <Name>BAW</Name>
-<PercentDP>0.918850</PercentDP>
+<PercentDP>0.960383</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
 <Hands>0</Hands>
-<Holds>28</Holds>
+<Holds>29</Holds>
 <Jumps>42</Jumps>
 <Mines>0</Mines>
 <Rolls>0</Rolls>
-<Taps>282</Taps>
+<Taps>284</Taps>
 </RadarValues>
-<Score>95958981</Score>
-<SurviveSeconds>96.899048</SurviveSeconds>
+<Score>97963207</Score>
+<SurviveSeconds>96.915283</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
 <Boo>0</Boo>
 <Good>0</Good>
-<Great>11</Great>
+<Great>4</Great>
 <HitMine>0</HitMine>
-<Marvelous>216</Marvelous>
-<Miss>2</Miss>
-<Perfect>55</Perfect>
+<Marvelous>230</Marvelous>
+<Miss>0</Miss>
+<Perfect>50</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-09-29</LastPlayed>
-<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2017-10-21</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -3320,6 +3626,12 @@ return tab1</Data>
 <NumTimesPlayed>1</NumTimesPlayed>
 </HighScoreList>
 </Steps>
+<Steps Difficulty='Medium' StepsType='dance-single' >
+<HighScoreList>
+<LastPlayed>2017-10-21</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
 <HighScore>
@@ -3503,7 +3815,7 @@ return tab1</Data>
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
 <HighScore>
-<DateTime>2017-09-01 17:17:51</DateTime>
+<DateTime>2017-10-25 19:41:51</DateTime>
 <Grade>Tier06</Grade>
 <HoldNoteScores>
 <NG>0</NG>
@@ -3511,9 +3823,9 @@ return tab1</Data>
 </HoldNoteScores>
 <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>2.75x, Overhead, vivid</Modifiers>
+<Modifiers>3.2x, Overhead, metal</Modifiers>
 <Name>BAW</Name>
-<PercentDP>0.920788</PercentDP>
+<PercentDP>0.922538</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
@@ -3522,23 +3834,23 @@ return tab1</Data>
 <Jumps>23</Jumps>
 <Mines>0</Mines>
 <Rolls>0</Rolls>
-<Taps>431</Taps>
+<Taps>430</Taps>
 </RadarValues>
-<Score>94477464</Score>
-<SurviveSeconds>107.099457</SurviveSeconds>
+<Score>94018527</Score>
+<SurviveSeconds>107.098190</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
-<Boo>0</Boo>
-<Good>0</Good>
-<Great>25</Great>
+<Boo>1</Boo>
+<Good>1</Good>
+<Great>20</Great>
 <HitMine>0</HitMine>
-<Marvelous>300</Marvelous>
+<Marvelous>308</Marvelous>
 <Miss>0</Miss>
-<Perfect>106</Perfect>
+<Perfect>101</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-07</LastPlayed>
-<NumTimesPlayed>4</NumTimesPlayed>
+<LastPlayed>2017-10-25</LastPlayed>
+<NumTimesPlayed>5</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -3629,8 +3941,8 @@ return tab1</Data>
 <Perfect>113</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-10</LastPlayed>
-<NumTimesPlayed>5</NumTimesPlayed>
+<LastPlayed>2017-10-21</LastPlayed>
+<NumTimesPlayed>6</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -3758,8 +4070,8 @@ return tab1</Data>
 <Perfect>53</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-20</LastPlayed>
-<NumTimesPlayed>3</NumTimesPlayed>
+<LastPlayed>2017-10-21</LastPlayed>
+<NumTimesPlayed>4</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 <Steps Difficulty='Medium' StepsType='dance-double' >
@@ -4142,6 +4454,49 @@ return tab1</Data>
 </TapNoteScores>
 </HighScore>
 <LastPlayed>2017-09-01</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='@mc1/In The Groove 2/Songs/DDRX2/What Will Come of Me/' >
+<Steps Difficulty='Hard' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2017-11-01 18:48:52</DateTime>
+<Grade>Tier07</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>9</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>3.9x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.893438</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>9</Holds>
+<Jumps>22</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>370</Taps>
+</RadarValues>
+<Score>91148488</Score>
+<SurviveSeconds>112.216209</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>0</Good>
+<Great>29</Great>
+<HitMine>0</HitMine>
+<Marvelous>247</Marvelous>
+<Miss>1</Miss>
+<Perfect>94</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-11-01</LastPlayed>
 <NumTimesPlayed>1</NumTimesPlayed>
 </HighScoreList>
 </Steps>
@@ -5051,6 +5406,49 @@ return tab1</Data>
 </HighScoreList>
 </Steps>
 </Song>
+<Song Dir='@mc1/In The Groove 2/Songs/DDRX3/Fever/' >
+<Steps Difficulty='Hard' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2017-10-25 19:30:59</DateTime>
+<Grade>Tier05</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>19</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>4x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.948043</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>19</Holds>
+<Jumps>11</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>262</Taps>
+</RadarValues>
+<Score>87346186</Score>
+<SurviveSeconds>110.247620</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>0</Good>
+<Great>8</Great>
+<HitMine>0</HitMine>
+<Marvelous>205</Marvelous>
+<Miss>0</Miss>
+<Perfect>49</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-10-25</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
 <Song Dir='@mc1/In The Groove 2/Songs/DDRX3/Find You Again/' >
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
@@ -5090,6 +5488,49 @@ return tab1</Data>
 </TapNoteScores>
 </HighScore>
 <LastPlayed>2017-09-01</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='@mc1/In The Groove 2/Songs/DDRX3/Get Back Up!/' >
+<Steps Difficulty='Hard' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2017-11-01 18:36:14</DateTime>
+<Grade>Tier05</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>16</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>3.5x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.952288</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>16</Holds>
+<Jumps>28</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>290</Taps>
+</RadarValues>
+<Score>96437804</Score>
+<SurviveSeconds>90.645149</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>1</Good>
+<Great>5</Great>
+<HitMine>0</HitMine>
+<Marvelous>231</Marvelous>
+<Miss>0</Miss>
+<Perfect>53</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-11-01</LastPlayed>
 <NumTimesPlayed>1</NumTimesPlayed>
 </HighScoreList>
 </Steps>
@@ -5268,6 +5709,47 @@ return tab1</Data>
 </TapNoteScores>
 </HighScore>
 <LastPlayed>2017-08-25</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+<Steps Difficulty='Hard' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2017-10-21 17:42:18</DateTime>
+<Grade>Tier05</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>21</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>3.1x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.943311</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>21</Holds>
+<Jumps>39</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>420</Taps>
+</RadarValues>
+<Score>96394868</Score>
+<SurviveSeconds>112.661804</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>0</Good>
+<Great>9</Great>
+<HitMine>0</HitMine>
+<Marvelous>313</Marvelous>
+<Miss>0</Miss>
+<Perfect>98</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-10-21</LastPlayed>
 <NumTimesPlayed>1</NumTimesPlayed>
 </HighScoreList>
 </Steps>
@@ -5531,6 +6013,14 @@ return tab1</Data>
 </HighScore>
 <LastPlayed>2017-10-16</LastPlayed>
 <NumTimesPlayed>4</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='@mc1/In The Groove 2/Songs/DDRX3/PUT YOUR FAITH IN ME (DA&apos;s Twinkly Disco Remix)/' >
+<Steps Difficulty='Hard' StepsType='dance-single' >
+<HighScoreList>
+<LastPlayed>2017-10-21</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -5912,8 +6402,8 @@ return tab1</Data>
 <Perfect>78</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-20</LastPlayed>
-<NumTimesPlayed>7</NumTimesPlayed>
+<LastPlayed>2017-10-24</LastPlayed>
+<NumTimesPlayed>8</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -6126,6 +6616,49 @@ return tab1</Data>
 </TapNoteScores>
 </HighScore>
 <LastPlayed>2017-10-13</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='@mc1/In The Groove 2/Songs/DDRX3/Until the End/' >
+<Steps Difficulty='Hard' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2017-11-01 18:51:18</DateTime>
+<Grade>Tier05</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>9</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>3.2x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.942929</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>9</Holds>
+<Jumps>33</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>387</Taps>
+</RadarValues>
+<Score>96183876</Score>
+<SurviveSeconds>105.876274</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>0</Good>
+<Great>9</Great>
+<HitMine>0</HitMine>
+<Marvelous>292</Marvelous>
+<Miss>0</Miss>
+<Perfect>86</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-11-01</LastPlayed>
 <NumTimesPlayed>1</NumTimesPlayed>
 </HighScoreList>
 </Steps>
@@ -6396,6 +6929,49 @@ return tab1</Data>
 </HighScoreList>
 </Steps>
 </Song>
+<Song Dir='@mc1/In The Groove 2/Songs/Other/[Round 1] - FOUR SEASONS OF LONELINESS ver beta feat. sariyajin/' >
+<Steps Difficulty='Hard' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2017-10-25 19:36:27</DateTime>
+<Grade>Tier07</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>33</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>3x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.892511</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>33</Holds>
+<Jumps>26</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>643</Taps>
+</RadarValues>
+<Score>93812666</Score>
+<SurviveSeconds>122.978394</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>3</Boo>
+<Good>4</Good>
+<Great>44</Great>
+<HitMine>0</HitMine>
+<Marvelous>448</Marvelous>
+<Miss>2</Miss>
+<Perfect>147</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-10-25</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
 <Song Dir='Songs/DDR 2nd MIX/stomp to my beat/' >
 <Steps Difficulty='Challenge' StepsType='dance-single' >
 <HighScoreList>
@@ -6533,6 +7109,49 @@ return tab1</Data>
 </HighScoreList>
 </Steps>
 </Song>
+<Song Dir='Songs/DDR 3rd MIX/DYNAMITE RAVE/' >
+<Steps Difficulty='Challenge' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2017-10-24 17:50:22</DateTime>
+<Grade>Tier06</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>7</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>3.6x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.938753</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>7</Holds>
+<Jumps>42</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>362</Taps>
+</RadarValues>
+<Score>86459067</Score>
+<SurviveSeconds>94.074844</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>0</Good>
+<Great>13</Great>
+<HitMine>0</HitMine>
+<Marvelous>275</Marvelous>
+<Miss>0</Miss>
+<Perfect>74</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-10-24</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
 <Song Dir='Songs/DDR 3rd MIX/GET UP AND DANCE/' >
 <Steps Difficulty='Hard' StepsType='dance-double' >
 <HighScoreList>
@@ -6581,6 +7200,49 @@ return tab1</Data>
 </HighScore>
 <LastPlayed>2017-10-13</LastPlayed>
 <NumTimesPlayed>2</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/DDR 3rd MIX/SO MANY MEN/' >
+<Steps Difficulty='Medium' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2017-10-21 18:48:53</DateTime>
+<Grade>Tier17</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>0</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>1.5x, NoHolds, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.481333</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>0</Holds>
+<Jumps>11</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>143</Taps>
+</RadarValues>
+<Score>30131947</Score>
+<SurviveSeconds>81.191055</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>3</Boo>
+<Good>11</Good>
+<Great>65</Great>
+<HitMine>0</HitMine>
+<Marvelous>29</Marvelous>
+<Miss>4</Miss>
+<Perfect>38</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-10-21</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -7144,8 +7806,49 @@ return tab1</Data>
 <Perfect>45</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-16</LastPlayed>
-<NumTimesPlayed>4</NumTimesPlayed>
+<LastPlayed>2017-11-01</LastPlayed>
+<NumTimesPlayed>6</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+<Steps Difficulty='Hard' StepsType='dance-double' >
+<HighScoreList>
+<HighScore>
+<DateTime>2017-10-21 17:58:24</DateTime>
+<Grade>Tier09</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>0</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>3.5x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.838710</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>0</Holds>
+<Jumps>30</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>276</Taps>
+</RadarValues>
+<Score>63812550</Score>
+<SurviveSeconds>99.424149</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>1</Boo>
+<Good>3</Good>
+<Great>31</Great>
+<HitMine>0</HitMine>
+<Marvelous>170</Marvelous>
+<Miss>2</Miss>
+<Perfect>72</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-10-21</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -7247,17 +7950,17 @@ return tab1</Data>
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
 <HighScore>
-<DateTime>2017-09-25 19:37:14</DateTime>
-<Grade>Tier06</Grade>
+<DateTime>2017-10-21 17:11:41</DateTime>
+<Grade>Tier04</Grade>
 <HoldNoteScores>
 <NG>0</NG>
 <OK>0</OK>
 </HoldNoteScores>
 <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>3.25x, Overhead, cel</Modifiers>
-<Name>NOVA</Name>
-<PercentDP>0.927796</PercentDP>
+<Modifiers>3.75x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.964856</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
@@ -7266,23 +7969,66 @@ return tab1</Data>
 <Jumps>7</Jumps>
 <Mines>0</Mines>
 <Rolls>0</Rolls>
-<Taps>311</Taps>
+<Taps>313</Taps>
 </RadarValues>
-<Score>68134085</Score>
-<SurviveSeconds>92.499290</SurviveSeconds>
+<Score>68476102</Score>
+<SurviveSeconds>92.496895</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
 <Boo>0</Boo>
 <Good>0</Good>
 <Great>3</Great>
 <HitMine>0</HitMine>
-<Marvelous>238</Marvelous>
-<Miss>2</Miss>
-<Perfect>70</Perfect>
+<Marvelous>264</Marvelous>
+<Miss>0</Miss>
+<Perfect>46</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-09-25</LastPlayed>
-<NumTimesPlayed>2</NumTimesPlayed>
+<LastPlayed>2017-10-21</LastPlayed>
+<NumTimesPlayed>3</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/DDR 4th MIX/LOVE AGAIN TONIGHT (ForMelissaMIX)/' >
+<Steps Difficulty='Hard' StepsType='dance-double' >
+<HighScoreList>
+<HighScore>
+<DateTime>2017-10-21 18:00:36</DateTime>
+<Grade>Tier09</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>0</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>3x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.842705</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>0</Holds>
+<Jumps>17</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>276</Taps>
+</RadarValues>
+<Score>64757734</Score>
+<SurviveSeconds>94.083908</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>1</Boo>
+<Good>1</Good>
+<Great>12</Great>
+<HitMine>0</HitMine>
+<Marvelous>162</Marvelous>
+<Miss>4</Miss>
+<Perfect>101</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-10-21</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -7427,41 +8173,127 @@ return tab1</Data>
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
 <HighScore>
-<DateTime>2017-09-22 20:13:30</DateTime>
-<Grade>Tier10</Grade>
+<DateTime>2017-10-21 18:06:48</DateTime>
+<Grade>Tier06</Grade>
 <HoldNoteScores>
 <NG>0</NG>
 <OK>0</OK>
 </HoldNoteScores>
 <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>2.75x, Overhead, vivid</Modifiers>
+<Modifiers>3.1x, Overhead, metal</Modifiers>
 <Name>BAW</Name>
-<PercentDP>0.820317</PercentDP>
+<PercentDP>0.925714</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
 <Hands>0</Hands>
 <Holds>0</Holds>
-<Jumps>43</Jumps>
+<Jumps>44</Jumps>
 <Mines>0</Mines>
 <Rolls>0</Rolls>
-<Taps>309</Taps>
+<Taps>315</Taps>
 </RadarValues>
-<Score>80432191</Score>
-<SurviveSeconds>84.828453</SurviveSeconds>
+<Score>85718079</Score>
+<SurviveSeconds>84.826897</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
-<Boo>1</Boo>
+<Boo>0</Boo>
 <Good>0</Good>
-<Great>34</Great>
+<Great>16</Great>
 <HitMine>0</HitMine>
-<Marvelous>190</Marvelous>
-<Miss>5</Miss>
-<Perfect>85</Perfect>
+<Marvelous>230</Marvelous>
+<Miss>0</Miss>
+<Perfect>69</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-09-22</LastPlayed>
+<LastPlayed>2017-10-21</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/DDR 4th MIX/SHAKE YOUR BOOTY/' >
+<Steps Difficulty='Hard' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2017-10-21 18:08:48</DateTime>
+<Grade>Tier06</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>0</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>4.8x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.926904</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>0</Holds>
+<Jumps>50</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>197</Taps>
+</RadarValues>
+<Score>66751425</Score>
+<SurviveSeconds>86.813553</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>0</Good>
+<Great>7</Great>
+<HitMine>0</HitMine>
+<Marvelous>139</Marvelous>
+<Miss>0</Miss>
+<Perfect>51</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-10-21</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/DDR 4th MIX/SHOOTING STAR/' >
+<Steps Difficulty='Hard' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2017-10-21 17:15:02</DateTime>
+<Grade>Tier04</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>0</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>3.2x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.964460</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>0</Holds>
+<Jumps>21</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>287</Taps>
+</RadarValues>
+<Score>68734587</Score>
+<SurviveSeconds>93.776932</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>0</Good>
+<Great>3</Great>
+<HitMine>0</HitMine>
+<Marvelous>242</Marvelous>
+<Miss>0</Miss>
+<Perfect>42</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-10-21</LastPlayed>
 <NumTimesPlayed>1</NumTimesPlayed>
 </HighScoreList>
 </Steps>
@@ -7470,17 +8302,17 @@ return tab1</Data>
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
 <HighScore>
-<DateTime>2017-10-10 17:25:01</DateTime>
-<Grade>Tier06</Grade>
+<DateTime>2017-10-21 17:17:20</DateTime>
+<Grade>Tier05</Grade>
 <HoldNoteScores>
 <NG>0</NG>
 <OK>0</OK>
 </HoldNoteScores>
 <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>3.8x, Overhead, vivid</Modifiers>
+<Modifiers>3.9x, Overhead, metal</Modifiers>
 <Name>BAW</Name>
-<PercentDP>0.936330</PercentDP>
+<PercentDP>0.951311</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
@@ -7491,21 +8323,21 @@ return tab1</Data>
 <Rolls>0</Rolls>
 <Taps>267</Taps>
 </RadarValues>
-<Score>67072664</Score>
-<SurviveSeconds>91.553047</SurviveSeconds>
+<Score>67988123</Score>
+<SurviveSeconds>91.559959</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
 <Boo>0</Boo>
 <Good>0</Good>
-<Great>8</Great>
+<Great>3</Great>
 <HitMine>0</HitMine>
-<Marvelous>198</Marvelous>
+<Marvelous>208</Marvelous>
 <Miss>0</Miss>
-<Perfect>61</Perfect>
+<Perfect>56</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-10</LastPlayed>
-<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2017-10-21</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -7554,6 +8386,47 @@ return tab1</Data>
 </TapNoteScores>
 </HighScore>
 <LastPlayed>2017-10-10</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+<Steps Difficulty='Hard' StepsType='dance-double' >
+<HighScoreList>
+<HighScore>
+<DateTime>2017-10-21 18:02:50</DateTime>
+<Grade>Tier07</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>0</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>3.6x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.900000</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>0</Holds>
+<Jumps>18</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>269</Taps>
+</RadarValues>
+<Score>66085340</Score>
+<SurviveSeconds>95.312500</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>0</Good>
+<Great>16</Great>
+<HitMine>0</HitMine>
+<Marvelous>183</Marvelous>
+<Miss>1</Miss>
+<Perfect>70</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-10-21</LastPlayed>
 <NumTimesPlayed>1</NumTimesPlayed>
 </HighScoreList>
 </Steps>
@@ -7611,17 +8484,17 @@ return tab1</Data>
 <Steps Difficulty='Hard' StepsType='dance-double' >
 <HighScoreList>
 <HighScore>
-<DateTime>2017-09-24 19:35:03</DateTime>
-<Grade>Tier11</Grade>
+<DateTime>2017-11-01 18:57:26</DateTime>
+<Grade>Tier10</Grade>
 <HoldNoteScores>
 <NG>0</NG>
 <OK>0</OK>
 </HoldNoteScores>
 <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>3x, Overhead, vivid</Modifiers>
+<Modifiers>3.2x, Overhead, metal</Modifiers>
 <Name>BAW</Name>
-<PercentDP>0.790099</PercentDP>
+<PercentDP>0.827063</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
@@ -7630,23 +8503,23 @@ return tab1</Data>
 <Jumps>20</Jumps>
 <Mines>0</Mines>
 <Rolls>0</Rolls>
-<Taps>296</Taps>
+<Taps>299</Taps>
 </RadarValues>
-<Score>69691505</Score>
-<SurviveSeconds>102.679352</SurviveSeconds>
+<Score>70620663</Score>
+<SurviveSeconds>102.685074</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
-<Boo>2</Boo>
-<Good>1</Good>
-<Great>43</Great>
+<Boo>1</Boo>
+<Good>3</Good>
+<Great>32</Great>
 <HitMine>0</HitMine>
 <Marvelous>175</Marvelous>
-<Miss>5</Miss>
-<Perfect>77</Perfect>
+<Miss>3</Miss>
+<Perfect>89</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-09-24</LastPlayed>
-<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2017-11-01</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -7693,10 +8566,96 @@ return tab1</Data>
 </HighScoreList>
 </Steps>
 </Song>
+<Song Dir='Songs/DDR 5th MIX/BE TOGETHER/' >
+<Steps Difficulty='Hard' StepsType='dance-double' >
+<HighScoreList>
+<HighScore>
+<DateTime>2017-11-01 18:59:18</DateTime>
+<Grade>Tier09</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>0</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>3.3x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.830328</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>0</Holds>
+<Jumps>15</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>239</Taps>
+</RadarValues>
+<Score>63932558</Score>
+<SurviveSeconds>81.022911</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>1</Boo>
+<Good>0</Good>
+<Great>22</Great>
+<HitMine>0</HitMine>
+<Marvelous>155</Marvelous>
+<Miss>4</Miss>
+<Perfect>62</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-11-01</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
 <Song Dir='Songs/DDR 5th MIX/CAN&apos;T STOP FALLIN&apos; IN LOVE(SPEED MIX)/' >
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
 <LastPlayed>2017-10-08</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/DDR 5th MIX/DIVE/' >
+<Steps Difficulty='Hard' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2017-10-21 18:11:34</DateTime>
+<Grade>Tier06</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>0</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>3.5x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.935593</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>0</Holds>
+<Jumps>49</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>354</Taps>
+</RadarValues>
+<Score>77013133</Score>
+<SurviveSeconds>91.844887</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>0</Good>
+<Great>13</Great>
+<HitMine>0</HitMine>
+<Marvelous>266</Marvelous>
+<Miss>0</Miss>
+<Perfect>75</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-10-21</LastPlayed>
 <NumTimesPlayed>1</NumTimesPlayed>
 </HighScoreList>
 </Steps>
@@ -7745,8 +8704,43 @@ return tab1</Data>
 </Steps>
 <Steps Difficulty='Hard' StepsType='dance-double' >
 <HighScoreList>
-<LastPlayed>2017-09-01</LastPlayed>
-<NumTimesPlayed>1</NumTimesPlayed>
+<HighScore>
+<DateTime>2017-11-01 19:01:47</DateTime>
+<Grade>Tier11</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>0</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>3.2x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.792568</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>0</Holds>
+<Jumps>19</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>288</Taps>
+</RadarValues>
+<Score>61909613</Score>
+<SurviveSeconds>101.624367</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>1</Boo>
+<Good>1</Good>
+<Great>34</Great>
+<HitMine>0</HitMine>
+<Marvelous>183</Marvelous>
+<Miss>7</Miss>
+<Perfect>70</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-11-01</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -7874,8 +8868,8 @@ return tab1</Data>
 <Perfect>59</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-20</LastPlayed>
-<NumTimesPlayed>5</NumTimesPlayed>
+<LastPlayed>2017-10-21</LastPlayed>
+<NumTimesPlayed>6</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 <Steps Difficulty='Hard' StepsType='dance-double' >
@@ -8182,7 +9176,7 @@ return tab1</Data>
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
 <HighScore>
-<DateTime>2017-10-13 20:51:22</DateTime>
+<DateTime>2017-10-24 19:05:21</DateTime>
 <Grade>Tier06</Grade>
 <HoldNoteScores>
 <NG>0</NG>
@@ -8190,7 +9184,7 @@ return tab1</Data>
 </HoldNoteScores>
 <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>5.9x, Overhead, metal</Modifiers>
+<Modifiers>6x, Overhead, metal</Modifiers>
 <Name>BAW</Name>
 <PercentDP>0.925850</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
@@ -8203,21 +9197,21 @@ return tab1</Data>
 <Rolls>0</Rolls>
 <Taps>294</Taps>
 </RadarValues>
-<Score>76837078</Score>
-<SurviveSeconds>94.452209</SurviveSeconds>
+<Score>77203277</Score>
+<SurviveSeconds>94.463997</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
 <Boo>0</Boo>
 <Good>0</Good>
-<Great>3</Great>
+<Great>0</Great>
 <HitMine>0</HitMine>
-<Marvelous>191</Marvelous>
+<Marvelous>185</Marvelous>
 <Miss>0</Miss>
-<Perfect>100</Perfect>
+<Perfect>109</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-13</LastPlayed>
-<NumTimesPlayed>3</NumTimesPlayed>
+<LastPlayed>2017-10-24</LastPlayed>
+<NumTimesPlayed>4</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 <Steps Difficulty='Hard' StepsType='dance-double' >
@@ -8771,8 +9765,8 @@ return tab1</Data>
 <Perfect>119</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-18</LastPlayed>
-<NumTimesPlayed>2</NumTimesPlayed>
+<LastPlayed>2017-10-24</LastPlayed>
+<NumTimesPlayed>3</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -8780,7 +9774,7 @@ return tab1</Data>
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
 <HighScore>
-<DateTime>2017-09-24 18:45:28</DateTime>
+<DateTime>2017-10-24 19:18:03</DateTime>
 <Grade>Tier05</Grade>
 <HoldNoteScores>
 <NG>0</NG>
@@ -8788,9 +9782,9 @@ return tab1</Data>
 </HoldNoteScores>
 <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>3.2x, Overhead, vivid</Modifiers>
+<Modifiers>3.6x, Overhead, metal</Modifiers>
 <Name>BAW</Name>
-<PercentDP>0.951553</PercentDP>
+<PercentDP>0.956522</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
@@ -8799,27 +9793,154 @@ return tab1</Data>
 <Jumps>23</Jumps>
 <Mines>0</Mines>
 <Rolls>0</Rolls>
-<Taps>310</Taps>
+<Taps>309</Taps>
 </RadarValues>
-<Score>87858125</Score>
-<SurviveSeconds>107.604752</SurviveSeconds>
+<Score>88343404</Score>
+<SurviveSeconds>107.608902</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>1</Boo>
+<Good>0</Good>
+<Great>1</Great>
+<HitMine>0</HitMine>
+<Marvelous>252</Marvelous>
+<Miss>0</Miss>
+<Perfect>56</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-10-24</LastPlayed>
+<NumTimesPlayed>3</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/DDR EXTREME/DAIKENKAI/' >
+<Steps Difficulty='Hard' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2017-11-01 19:09:57</DateTime>
+<Grade>Tier06</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>22</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>3.2x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.935123</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>22</Holds>
+<Jumps>17</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>425</Taps>
+</RadarValues>
+<Score>96778227</Score>
+<SurviveSeconds>105.492607</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
 <Boo>0</Boo>
 <Good>0</Good>
-<Great>2</Great>
+<Great>17</Great>
 <HitMine>0</HitMine>
-<Marvelous>236</Marvelous>
+<Marvelous>314</Marvelous>
 <Miss>0</Miss>
-<Perfect>72</Perfect>
+<Perfect>94</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-09-24</LastPlayed>
-<NumTimesPlayed>2</NumTimesPlayed>
+<LastPlayed>2017-11-01</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/DDR EXTREME/DYNAMITE RAVE(Down Bird SOTA Mix)/' >
+<Steps Difficulty='Hard' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2017-10-24 17:48:04</DateTime>
+<Grade>Tier04</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>36</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>3.6x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.969180</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>36</Holds>
+<Jumps>21</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>269</Taps>
+</RadarValues>
+<Score>98468231</Score>
+<SurviveSeconds>95.620476</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>0</Good>
+<Great>1</Great>
+<HitMine>0</HitMine>
+<Marvelous>224</Marvelous>
+<Miss>0</Miss>
+<Perfect>44</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-10-24</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
 <Song Dir='Songs/DDR EXTREME/Do It Right(Harmonized 2Step Mix)/' >
+<Steps Difficulty='Hard' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2017-11-01 19:12:11</DateTime>
+<Grade>Tier06</Grade>
+<HoldNoteScores>
+<NG>1</NG>
+<OK>35</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>4x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.938745</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>35</Holds>
+<Jumps>9</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>234</Taps>
+</RadarValues>
+<Score>67869575</Score>
+<SurviveSeconds>92.331879</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>0</Good>
+<Great>4</Great>
+<HitMine>0</HitMine>
+<Marvelous>181</Marvelous>
+<Miss>1</Miss>
+<Perfect>49</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-11-01</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
 <Steps Difficulty='Hard' StepsType='dance-double' >
 <HighScoreList>
 <HighScore>
@@ -8859,6 +9980,49 @@ return tab1</Data>
 </HighScore>
 <LastPlayed>2017-09-22</LastPlayed>
 <NumTimesPlayed>3</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/DDR EXTREME/Frozen Ray(for EXTREME)/' >
+<Steps Difficulty='Hard' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2017-11-01 19:14:49</DateTime>
+<Grade>Tier05</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>4</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>3.5x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.949373</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>4</Holds>
+<Jumps>9</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>395</Taps>
+</RadarValues>
+<Score>97620174</Score>
+<SurviveSeconds>106.995728</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>0</Good>
+<Great>7</Great>
+<HitMine>0</HitMine>
+<Marvelous>308</Marvelous>
+<Miss>0</Miss>
+<Perfect>80</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-11-01</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -8943,8 +10107,8 @@ return tab1</Data>
 <Perfect>67</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-18</LastPlayed>
-<NumTimesPlayed>7</NumTimesPlayed>
+<LastPlayed>2017-10-24</LastPlayed>
+<NumTimesPlayed>9</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -9750,8 +10914,8 @@ return tab1</Data>
 <Perfect>49</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-20</LastPlayed>
-<NumTimesPlayed>5</NumTimesPlayed>
+<LastPlayed>2017-11-01</LastPlayed>
+<NumTimesPlayed>7</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -9879,8 +11043,8 @@ return tab1</Data>
 <Perfect>36</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-18</LastPlayed>
-<NumTimesPlayed>2</NumTimesPlayed>
+<LastPlayed>2017-10-24</LastPlayed>
+<NumTimesPlayed>3</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -9931,17 +11095,17 @@ return tab1</Data>
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
 <HighScore>
-<DateTime>2017-09-25 21:14:18</DateTime>
-<Grade>Tier08</Grade>
+<DateTime>2017-10-25 18:51:29</DateTime>
+<Grade>Tier05</Grade>
 <HoldNoteScores>
 <NG>1</NG>
 <OK>9</OK>
 </HoldNoteScores>
 <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>3.5x, Overhead, cel</Modifiers>
-<Name>NOVA</Name>
-<PercentDP>0.867785</PercentDP>
+<Modifiers>4.3x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.950336</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
@@ -9950,23 +11114,23 @@ return tab1</Data>
 <Jumps>18</Jumps>
 <Mines>0</Mines>
 <Rolls>0</Rolls>
-<Taps>285</Taps>
+<Taps>288</Taps>
 </RadarValues>
-<Score>64999398</Score>
-<SurviveSeconds>102.269211</SurviveSeconds>
+<Score>67589731</Score>
+<SurviveSeconds>102.242729</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
 <Boo>0</Boo>
-<Good>1</Good>
-<Great>15</Great>
+<Good>0</Good>
+<Great>4</Great>
 <HitMine>0</HitMine>
-<Marvelous>178</Marvelous>
-<Miss>3</Miss>
-<Perfect>91</Perfect>
+<Marvelous>227</Marvelous>
+<Miss>0</Miss>
+<Perfect>57</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-09-25</LastPlayed>
-<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2017-10-25</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -10051,6 +11215,90 @@ return tab1</Data>
 </HighScore>
 <LastPlayed>2017-09-22</LastPlayed>
 <NumTimesPlayed>4</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/DDR EXTREME/bag/' >
+<Steps Difficulty='Hard' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2017-10-24 19:08:37</DateTime>
+<Grade>Tier06</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>0</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>8.3x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.938220</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>0</Holds>
+<Jumps>1</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>382</Taps>
+</RadarValues>
+<Score>96676704</Score>
+<SurviveSeconds>94.909439</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>0</Good>
+<Great>10</Great>
+<HitMine>0</HitMine>
+<Marvelous>284</Marvelous>
+<Miss>0</Miss>
+<Perfect>88</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-10-24</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+<Steps Difficulty='Challenge' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2017-10-24 19:12:42</DateTime>
+<Grade>Tier07</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>0</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>8.3x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.911518</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>0</Holds>
+<Jumps>1</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>382</Taps>
+</RadarValues>
+<Score>94436737</Score>
+<SurviveSeconds>94.925171</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>1</Good>
+<Great>13</Great>
+<HitMine>0</HitMine>
+<Marvelous>243</Marvelous>
+<Miss>0</Miss>
+<Perfect>125</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-10-24</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -10222,6 +11470,49 @@ return tab1</Data>
 </TapNoteScores>
 </HighScore>
 <LastPlayed>2017-09-25</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/DDR Mario MIX/Destruction Dance/' >
+<Steps Difficulty='Challenge' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2017-10-24 18:07:15</DateTime>
+<Grade>Tier05</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>0</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>4.2x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.945992</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>0</Holds>
+<Jumps>30</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>237</Taps>
+</RadarValues>
+<Score>68137009</Score>
+<SurviveSeconds>104.739914</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>0</Good>
+<Great>4</Great>
+<HitMine>0</HitMine>
+<Marvelous>181</Marvelous>
+<Miss>0</Miss>
+<Perfect>52</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-10-24</LastPlayed>
 <NumTimesPlayed>1</NumTimesPlayed>
 </HighScoreList>
 </Steps>
@@ -10551,7 +11842,7 @@ return tab1</Data>
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
 <HighScore>
-<DateTime>2017-10-10 17:51:11</DateTime>
+<DateTime>2017-10-25 18:04:29</DateTime>
 <Grade>Tier05</Grade>
 <HoldNoteScores>
 <NG>0</NG>
@@ -10559,9 +11850,9 @@ return tab1</Data>
 </HoldNoteScores>
 <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>3.25x, Overhead, vivid</Modifiers>
+<Modifiers>3.4x, Overhead, metal</Modifiers>
 <Name>BAW</Name>
-<PercentDP>0.949153</PercentDP>
+<PercentDP>0.957062</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
@@ -10572,21 +11863,21 @@ return tab1</Data>
 <Rolls>0</Rolls>
 <Taps>316</Taps>
 </RadarValues>
-<Score>97253278</Score>
-<SurviveSeconds>101.714493</SurviveSeconds>
+<Score>97841648</Score>
+<SurviveSeconds>101.724808</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
 <Boo>0</Boo>
 <Good>0</Good>
-<Great>6</Great>
+<Great>4</Great>
 <HitMine>0</HitMine>
-<Marvelous>238</Marvelous>
+<Marvelous>248</Marvelous>
 <Miss>0</Miss>
-<Perfect>72</Perfect>
+<Perfect>64</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-10</LastPlayed>
-<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2017-10-25</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -10594,7 +11885,7 @@ return tab1</Data>
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
 <HighScore>
-<DateTime>2017-09-22 20:41:51</DateTime>
+<DateTime>2017-10-25 18:07:15</DateTime>
 <Grade>Tier05</Grade>
 <HoldNoteScores>
 <NG>0</NG>
@@ -10602,9 +11893,9 @@ return tab1</Data>
 </HoldNoteScores>
 <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>4x, Overhead, vivid</Modifiers>
+<Modifiers>4.5x, Overhead, metal</Modifiers>
 <Name>BAW</Name>
-<PercentDP>0.941935</PercentDP>
+<PercentDP>0.951613</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
@@ -10615,21 +11906,21 @@ return tab1</Data>
 <Rolls>0</Rolls>
 <Taps>219</Taps>
 </RadarValues>
-<Score>86526915</Score>
-<SurviveSeconds>99.217659</SurviveSeconds>
+<Score>87593180</Score>
+<SurviveSeconds>99.226578</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
 <Boo>0</Boo>
 <Good>0</Good>
-<Great>8</Great>
+<Great>2</Great>
 <HitMine>0</HitMine>
 <Marvelous>163</Marvelous>
 <Miss>0</Miss>
-<Perfect>48</Perfect>
+<Perfect>54</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-09-22</LastPlayed>
-<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2017-10-25</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -10637,8 +11928,8 @@ return tab1</Data>
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
 <HighScore>
-<DateTime>2017-10-18 18:58:56</DateTime>
-<Grade>Tier06</Grade>
+<DateTime>2017-10-25 18:09:36</DateTime>
+<Grade>Tier05</Grade>
 <HoldNoteScores>
 <NG>0</NG>
 <OK>14</OK>
@@ -10647,7 +11938,7 @@ return tab1</Data>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
 <Modifiers>4.1x, Overhead, metal</Modifiers>
 <Name>BAW</Name>
-<PercentDP>0.928249</PercentDP>
+<PercentDP>0.959322</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
@@ -10656,23 +11947,23 @@ return tab1</Data>
 <Jumps>23</Jumps>
 <Mines>0</Mines>
 <Rolls>0</Rolls>
-<Taps>339</Taps>
+<Taps>340</Taps>
 </RadarValues>
-<Score>96089924</Score>
-<SurviveSeconds>101.698593</SurviveSeconds>
+<Score>97474500</Score>
+<SurviveSeconds>101.695038</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
 <Boo>0</Boo>
 <Good>0</Good>
-<Great>7</Great>
+<Great>5</Great>
 <HitMine>0</HitMine>
-<Marvelous>243</Marvelous>
-<Miss>1</Miss>
-<Perfect>89</Perfect>
+<Marvelous>278</Marvelous>
+<Miss>0</Miss>
+<Perfect>57</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-18</LastPlayed>
-<NumTimesPlayed>3</NumTimesPlayed>
+<LastPlayed>2017-10-25</LastPlayed>
+<NumTimesPlayed>4</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 <Steps Difficulty='Medium' StepsType='dance-double' >
@@ -10721,8 +12012,8 @@ return tab1</Data>
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
 <HighScore>
-<DateTime>2017-10-18 19:01:16</DateTime>
-<Grade>Tier08</Grade>
+<DateTime>2017-11-01 18:22:05</DateTime>
+<Grade>Tier07</Grade>
 <HoldNoteScores>
 <NG>0</NG>
 <OK>1</OK>
@@ -10731,32 +12022,32 @@ return tab1</Data>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
 <Modifiers>2.4x, Overhead, metal</Modifiers>
 <Name>BAW</Name>
-<PercentDP>0.885210</PercentDP>
+<PercentDP>0.909492</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
 <Hands>0</Hands>
 <Holds>1</Holds>
-<Jumps>88</Jumps>
+<Jumps>87</Jumps>
 <Mines>0</Mines>
 <Rolls>0</Rolls>
-<Taps>447</Taps>
+<Taps>451</Taps>
 </RadarValues>
-<Score>93880156</Score>
-<SurviveSeconds>97.214417</SurviveSeconds>
+<Score>93797008</Score>
+<SurviveSeconds>97.216698</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
-<Boo>1</Boo>
-<Good>2</Good>
-<Great>17</Great>
+<Boo>0</Boo>
+<Good>0</Good>
+<Great>40</Great>
 <HitMine>0</HitMine>
-<Marvelous>308</Marvelous>
-<Miss>4</Miss>
-<Perfect>120</Perfect>
+<Marvelous>343</Marvelous>
+<Miss>1</Miss>
+<Perfect>68</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-18</LastPlayed>
-<NumTimesPlayed>4</NumTimesPlayed>
+<LastPlayed>2017-11-01</LastPlayed>
+<NumTimesPlayed>7</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -10813,17 +12104,17 @@ return tab1</Data>
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
 <HighScore>
-<DateTime>2017-09-29 19:12:17</DateTime>
-<Grade>Tier06</Grade>
+<DateTime>2017-10-25 18:13:18</DateTime>
+<Grade>Tier05</Grade>
 <HoldNoteScores>
 <NG>0</NG>
 <OK>13</OK>
 </HoldNoteScores>
 <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>2.9x, Overhead, vivid</Modifiers>
+<Modifiers>3.2x, Overhead, metal</Modifiers>
 <Name>BAW</Name>
-<PercentDP>0.931629</PercentDP>
+<PercentDP>0.955272</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
@@ -10834,21 +12125,21 @@ return tab1</Data>
 <Rolls>0</Rolls>
 <Taps>300</Taps>
 </RadarValues>
-<Score>65728293</Score>
-<SurviveSeconds>96.592995</SurviveSeconds>
+<Score>67874546</Score>
+<SurviveSeconds>96.607170</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
 <Boo>0</Boo>
-<Good>1</Good>
-<Great>14</Great>
+<Good>0</Good>
+<Great>6</Great>
 <HitMine>0</HitMine>
-<Marvelous>225</Marvelous>
+<Marvelous>242</Marvelous>
 <Miss>0</Miss>
-<Perfect>60</Perfect>
+<Perfect>52</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-09-29</LastPlayed>
-<NumTimesPlayed>2</NumTimesPlayed>
+<LastPlayed>2017-10-25</LastPlayed>
+<NumTimesPlayed>3</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 <Steps Difficulty='Hard' StepsType='dance-double' >
@@ -10940,7 +12231,7 @@ return tab1</Data>
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
 <HighScore>
-<DateTime>2017-09-30 17:10:41</DateTime>
+<DateTime>2017-10-25 18:15:13</DateTime>
 <Grade>Tier05</Grade>
 <HoldNoteScores>
 <NG>0</NG>
@@ -10948,9 +12239,9 @@ return tab1</Data>
 </HoldNoteScores>
 <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>2.9x, Overhead, vivid</Modifiers>
+<Modifiers>3.2x, Overhead, metal</Modifiers>
 <Name>BAW</Name>
-<PercentDP>0.949434</PercentDP>
+<PercentDP>0.950943</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
@@ -10961,21 +12252,21 @@ return tab1</Data>
 <Rolls>0</Rolls>
 <Taps>265</Taps>
 </RadarValues>
-<Score>96631014</Score>
-<SurviveSeconds>86.993546</SurviveSeconds>
+<Score>96965813</Score>
+<SurviveSeconds>86.985481</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
 <Boo>0</Boo>
 <Good>0</Good>
-<Great>7</Great>
+<Great>2</Great>
 <HitMine>0</HitMine>
-<Marvelous>212</Marvelous>
+<Marvelous>204</Marvelous>
 <Miss>0</Miss>
-<Perfect>46</Perfect>
+<Perfect>59</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-04</LastPlayed>
-<NumTimesPlayed>3</NumTimesPlayed>
+<LastPlayed>2017-10-25</LastPlayed>
+<NumTimesPlayed>4</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -11061,6 +12352,49 @@ return tab1</Data>
 </TapNoteScores>
 </HighScore>
 <LastPlayed>2017-09-29</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/DDR SuperNOVA 2/FIRE/' >
+<Steps Difficulty='Hard' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2017-10-25 18:21:02</DateTime>
+<Grade>Tier05</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>8</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>2.9x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.946176</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>8</Holds>
+<Jumps>19</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>345</Taps>
+</RadarValues>
+<Score>94934942</Score>
+<SurviveSeconds>89.092606</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>1</Good>
+<Great>13</Great>
+<HitMine>0</HitMine>
+<Marvelous>280</Marvelous>
+<Miss>0</Miss>
+<Perfect>51</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-10-25</LastPlayed>
 <NumTimesPlayed>1</NumTimesPlayed>
 </HighScoreList>
 </Steps>
@@ -11280,17 +12614,17 @@ return tab1</Data>
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
 <HighScore>
-<DateTime>2017-09-30 17:16:42</DateTime>
-<Grade>Tier08</Grade>
+<DateTime>2017-10-25 18:23:38</DateTime>
+<Grade>Tier05</Grade>
 <HoldNoteScores>
 <NG>0</NG>
 <OK>1</OK>
 </HoldNoteScores>
 <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>3.5x, Overhead, vivid</Modifiers>
+<Modifiers>3.9x, Overhead, metal</Modifiers>
 <Name>BAW</Name>
-<PercentDP>0.888563</PercentDP>
+<PercentDP>0.945455</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
@@ -11301,21 +12635,21 @@ return tab1</Data>
 <Rolls>0</Rolls>
 <Taps>340</Taps>
 </RadarValues>
-<Score>91898785</Score>
-<SurviveSeconds>116.075478</SurviveSeconds>
+<Score>96508034</Score>
+<SurviveSeconds>116.057495</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
 <Boo>0</Boo>
-<Good>1</Good>
-<Great>25</Great>
+<Good>0</Good>
+<Great>6</Great>
 <HitMine>0</HitMine>
-<Marvelous>204</Marvelous>
+<Marvelous>259</Marvelous>
 <Miss>0</Miss>
-<Perfect>110</Perfect>
+<Perfect>75</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-09-30</LastPlayed>
-<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2017-10-25</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -11323,17 +12657,17 @@ return tab1</Data>
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
 <HighScore>
-<DateTime>2017-10-12 19:36:45</DateTime>
-<Grade>Tier04</Grade>
+<DateTime>2017-11-01 19:24:49</DateTime>
+<Grade>Tier03</Grade>
 <HoldNoteScores>
 <NG>0</NG>
 <OK>16</OK>
 </HoldNoteScores>
 <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>2.6x, Overhead, vivid</Modifiers>
+<Modifiers>2.7x, Overhead, metal</Modifiers>
 <Name>BAW</Name>
-<PercentDP>0.971358</PercentDP>
+<PercentDP>0.982716</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
@@ -11344,21 +12678,21 @@ return tab1</Data>
 <Rolls>0</Rolls>
 <Taps>389</Taps>
 </RadarValues>
-<Score>98185370</Score>
-<SurviveSeconds>103.235016</SurviveSeconds>
+<Score>98941189</Score>
+<SurviveSeconds>103.233849</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
 <Boo>0</Boo>
 <Good>0</Good>
-<Great>6</Great>
+<Great>1</Great>
 <HitMine>0</HitMine>
-<Marvelous>343</Marvelous>
+<Marvelous>356</Marvelous>
 <Miss>0</Miss>
-<Perfect>40</Perfect>
+<Perfect>32</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-18</LastPlayed>
-<NumTimesPlayed>9</NumTimesPlayed>
+<LastPlayed>2017-11-01</LastPlayed>
+<NumTimesPlayed>15</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -11568,8 +12902,8 @@ return tab1</Data>
 <Perfect>55</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-13</LastPlayed>
-<NumTimesPlayed>2</NumTimesPlayed>
+<LastPlayed>2017-10-24</LastPlayed>
+<NumTimesPlayed>3</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -11634,6 +12968,47 @@ return tab1</Data>
 <Steps Difficulty='Medium' StepsType='dance-single' >
 <HighScoreList>
 <LastPlayed>2017-09-25</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+<Steps Difficulty='Hard' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2017-10-24 18:25:51</DateTime>
+<Grade>Tier05</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>9</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>3.4x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.956667</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>9</Holds>
+<Jumps>58</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>290</Taps>
+</RadarValues>
+<Score>87831031</Score>
+<SurviveSeconds>105.470161</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>1</Boo>
+<Good>0</Good>
+<Great>1</Great>
+<HitMine>0</HitMine>
+<Marvelous>238</Marvelous>
+<Miss>0</Miss>
+<Perfect>51</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-10-24</LastPlayed>
 <NumTimesPlayed>1</NumTimesPlayed>
 </HighScoreList>
 </Steps>
@@ -11758,8 +13133,8 @@ return tab1</Data>
 <Perfect>58</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-08</LastPlayed>
-<NumTimesPlayed>2</NumTimesPlayed>
+<LastPlayed>2017-10-25</LastPlayed>
+<NumTimesPlayed>3</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -12286,8 +13661,43 @@ return tab1</Data>
 <Song Dir='Songs/DDR SuperNOVA 2/Votum stellarum -forest #25 DDR RMX-/' >
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
-<LastPlayed>2017-10-20</LastPlayed>
-<NumTimesPlayed>1</NumTimesPlayed>
+<HighScore>
+<DateTime>2017-10-25 18:30:51</DateTime>
+<Grade>Tier06</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>0</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>3.9x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.932213</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>0</Holds>
+<Jumps>18</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>357</Taps>
+</RadarValues>
+<Score>96022401</Score>
+<SurviveSeconds>100.644211</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>2</Good>
+<Great>7</Great>
+<HitMine>0</HitMine>
+<Marvelous>258</Marvelous>
+<Miss>0</Miss>
+<Perfect>90</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-10-25</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -12413,13 +13823,56 @@ return tab1</Data>
 <Perfect>56</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-20</LastPlayed>
-<NumTimesPlayed>4</NumTimesPlayed>
+<LastPlayed>2017-10-24</LastPlayed>
+<NumTimesPlayed>5</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 <Steps Difficulty='Hard' StepsType='dance-double' >
 <HighScoreList>
 <LastPlayed>2017-09-30</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/DDR SuperNOVA 2/dream of love/' >
+<Steps Difficulty='Hard' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2017-10-25 18:17:59</DateTime>
+<Grade>Tier06</Grade>
+<HoldNoteScores>
+<NG>2</NG>
+<OK>39</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>4.8x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.935833</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>39</Holds>
+<Jumps>6</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>199</Taps>
+</RadarValues>
+<Score>76829876</Score>
+<SurviveSeconds>106.476395</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>1</Good>
+<Great>4</Great>
+<HitMine>0</HitMine>
+<Marvelous>144</Marvelous>
+<Miss>0</Miss>
+<Perfect>50</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-10-25</LastPlayed>
 <NumTimesPlayed>1</NumTimesPlayed>
 </HighScoreList>
 </Steps>
@@ -12634,8 +14087,8 @@ return tab1</Data>
 <Perfect>33</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-20</LastPlayed>
-<NumTimesPlayed>3</NumTimesPlayed>
+<LastPlayed>2017-11-01</LastPlayed>
+<NumTimesPlayed>8</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 <Steps Difficulty='Hard' StepsType='dance-double' >
@@ -12770,17 +14223,17 @@ return tab1</Data>
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
 <HighScore>
-<DateTime>2017-10-12 18:10:14</DateTime>
-<Grade>Tier05</Grade>
+<DateTime>2017-10-24 17:35:18</DateTime>
+<Grade>Tier04</Grade>
 <HoldNoteScores>
 <NG>0</NG>
 <OK>26</OK>
 </HoldNoteScores>
 <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>8.2x, Overhead, vivid</Modifiers>
+<Modifiers>8.1x, Overhead, metal</Modifiers>
 <Name>BAW</Name>
-<PercentDP>0.954430</PercentDP>
+<PercentDP>0.975527</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
@@ -12791,21 +14244,21 @@ return tab1</Data>
 <Rolls>0</Rolls>
 <Taps>211</Taps>
 </RadarValues>
-<Score>97077616</Score>
-<SurviveSeconds>105.661270</SurviveSeconds>
+<Score>98474987</Score>
+<SurviveSeconds>105.661018</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
 <Boo>0</Boo>
 <Good>0</Good>
 <Great>2</Great>
 <HitMine>0</HitMine>
-<Marvelous>161</Marvelous>
+<Marvelous>186</Marvelous>
 <Miss>0</Miss>
-<Perfect>48</Perfect>
+<Perfect>23</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-12</LastPlayed>
-<NumTimesPlayed>2</NumTimesPlayed>
+<LastPlayed>2017-10-24</LastPlayed>
+<NumTimesPlayed>3</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 <Steps Difficulty='Hard' StepsType='dance-double' >
@@ -12888,8 +14341,49 @@ return tab1</Data>
 <Perfect>46</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-20</LastPlayed>
-<NumTimesPlayed>8</NumTimesPlayed>
+<LastPlayed>2017-10-25</LastPlayed>
+<NumTimesPlayed>11</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+<Steps Difficulty='Hard' StepsType='dance-double' >
+<HighScoreList>
+<HighScore>
+<DateTime>2017-11-01 19:18:02</DateTime>
+<Grade>Tier10</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>1</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>2.5x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.809868</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>1</Holds>
+<Jumps>13</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>294</Taps>
+</RadarValues>
+<Score>62704511</Score>
+<SurviveSeconds>91.886871</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>4</Boo>
+<Good>2</Good>
+<Great>17</Great>
+<HitMine>0</HitMine>
+<Marvelous>176</Marvelous>
+<Miss>5</Miss>
+<Perfect>99</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-11-01</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -12936,21 +14430,64 @@ return tab1</Data>
 </HighScoreList>
 </Steps>
 </Song>
+<Song Dir='Songs/DDR SuperNOVA/Beautiful Life/' >
+<Steps Difficulty='Hard' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2017-10-24 17:40:39</DateTime>
+<Grade>Tier05</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>2</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>5.3x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.942857</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>2</Holds>
+<Jumps>41</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>229</Taps>
+</RadarValues>
+<Score>68000260</Score>
+<SurviveSeconds>91.812233</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>0</Good>
+<Great>0</Great>
+<HitMine>0</HitMine>
+<Marvelous>163</Marvelous>
+<Miss>0</Miss>
+<Perfect>66</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-10-24</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
 <Song Dir='Songs/DDR SuperNOVA/Brazilian Anthem/' >
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
 <HighScore>
-<DateTime>2017-10-20 18:52:43</DateTime>
-<Grade>Tier06</Grade>
+<DateTime>2017-10-24 18:09:27</DateTime>
+<Grade>Tier05</Grade>
 <HoldNoteScores>
 <NG>0</NG>
 <OK>12</OK>
 </HoldNoteScores>
 <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>4.1x, Overhead, metal</Modifiers>
+<Modifiers>4.2x, Overhead, metal</Modifiers>
 <Name>BAW</Name>
-<PercentDP>0.939502</PercentDP>
+<PercentDP>0.942349</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
@@ -12961,21 +14498,62 @@ return tab1</Data>
 <Rolls>0</Rolls>
 <Taps>269</Taps>
 </RadarValues>
-<Score>96354456</Score>
-<SurviveSeconds>90.303040</SurviveSeconds>
+<Score>96700738</Score>
+<SurviveSeconds>90.296722</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
 <Boo>0</Boo>
 <Good>0</Good>
-<Great>6</Great>
+<Great>10</Great>
 <HitMine>0</HitMine>
-<Marvelous>196</Marvelous>
+<Marvelous>208</Marvelous>
 <Miss>0</Miss>
-<Perfect>67</Perfect>
+<Perfect>51</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-20</LastPlayed>
-<NumTimesPlayed>4</NumTimesPlayed>
+<LastPlayed>2017-10-24</LastPlayed>
+<NumTimesPlayed>6</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+<Steps Difficulty='Hard' StepsType='dance-double' >
+<HighScoreList>
+<HighScore>
+<DateTime>2017-11-01 19:20:09</DateTime>
+<Grade>Tier10</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>7</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>3.5x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.821453</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>7</Holds>
+<Jumps>19</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>277</Taps>
+</RadarValues>
+<Score>89525360</Score>
+<SurviveSeconds>90.290680</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>3</Boo>
+<Good>1</Good>
+<Great>32</Great>
+<HitMine>0</HitMine>
+<Marvelous>154</Marvelous>
+<Miss>2</Miss>
+<Perfect>90</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-11-01</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -12983,17 +14561,17 @@ return tab1</Data>
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
 <HighScore>
-<DateTime>2017-09-21 18:45:07</DateTime>
-<Grade>Tier06</Grade>
+<DateTime>2017-10-25 19:14:48</DateTime>
+<Grade>Tier05</Grade>
 <HoldNoteScores>
 <NG>0</NG>
 <OK>38</OK>
 </HoldNoteScores>
 <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>3.2x, Overhead, vivid</Modifiers>
+<Modifiers>3.6x, Overhead, metal</Modifiers>
 <Name>BAW</Name>
-<PercentDP>0.927895</PercentDP>
+<PercentDP>0.940000</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
@@ -13004,21 +14582,21 @@ return tab1</Data>
 <Rolls>0</Rolls>
 <Taps>342</Taps>
 </RadarValues>
-<Score>85717940</Score>
-<SurviveSeconds>97.203651</SurviveSeconds>
+<Score>86614335</Score>
+<SurviveSeconds>97.207741</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
 <Boo>0</Boo>
 <Good>0</Good>
-<Great>14</Great>
+<Great>9</Great>
 <HitMine>0</HitMine>
-<Marvelous>233</Marvelous>
+<Marvelous>246</Marvelous>
 <Miss>0</Miss>
-<Perfect>95</Perfect>
+<Perfect>87</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-04</LastPlayed>
-<NumTimesPlayed>3</NumTimesPlayed>
+<LastPlayed>2017-10-25</LastPlayed>
+<NumTimesPlayed>4</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 <Steps Difficulty='Medium' StepsType='dance-double' >
@@ -13273,8 +14851,8 @@ return tab1</Data>
 <Perfect>41</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-20</LastPlayed>
-<NumTimesPlayed>4</NumTimesPlayed>
+<LastPlayed>2017-11-01</LastPlayed>
+<NumTimesPlayed>6</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -13322,10 +14900,16 @@ return tab1</Data>
 </Steps>
 </Song>
 <Song Dir='Songs/DDR SuperNOVA/DoLL/' >
+<Steps Difficulty='Medium' StepsType='dance-single' >
+<HighScoreList>
+<LastPlayed>2017-10-21</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
 <HighScore>
-<DateTime>2017-10-02 18:29:06</DateTime>
+<DateTime>2017-10-24 19:30:59</DateTime>
 <Grade>Tier05</Grade>
 <HoldNoteScores>
 <NG>0</NG>
@@ -13333,9 +14917,9 @@ return tab1</Data>
 </HoldNoteScores>
 <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>2.9x, Overhead, vivid</Modifiers>
+<Modifiers>3.2x, Overhead, metal</Modifiers>
 <Name>BAW</Name>
-<PercentDP>0.950943</PercentDP>
+<PercentDP>0.958962</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
@@ -13346,21 +14930,21 @@ return tab1</Data>
 <Rolls>0</Rolls>
 <Taps>366</Taps>
 </RadarValues>
-<Score>97526311</Score>
-<SurviveSeconds>114.129768</SurviveSeconds>
+<Score>98015650</Score>
+<SurviveSeconds>114.144135</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
 <Boo>0</Boo>
 <Good>0</Good>
-<Great>7</Great>
+<Great>4</Great>
 <HitMine>0</HitMine>
-<Marvelous>276</Marvelous>
+<Marvelous>287</Marvelous>
 <Miss>0</Miss>
-<Perfect>83</Perfect>
+<Perfect>75</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-20</LastPlayed>
-<NumTimesPlayed>3</NumTimesPlayed>
+<LastPlayed>2017-10-24</LastPlayed>
+<NumTimesPlayed>4</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -13624,42 +15208,42 @@ return tab1</Data>
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
 <HighScore>
-<DateTime>2017-10-02 18:37:05</DateTime>
+<DateTime>2017-10-24 19:38:26</DateTime>
 <Grade>Tier05</Grade>
 <HoldNoteScores>
-<NG>0</NG>
-<OK>6</OK>
+<NG>1</NG>
+<OK>5</OK>
 </HoldNoteScores>
 <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>2.75x, Overhead, vivid</Modifiers>
+<Modifiers>3x, Overhead, metal</Modifiers>
 <Name>BAW</Name>
-<PercentDP>0.953061</PercentDP>
+<PercentDP>0.954592</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
 <Hands>0</Hands>
-<Holds>6</Holds>
+<Holds>5</Holds>
 <Jumps>62</Jumps>
 <Mines>0</Mines>
 <Rolls>0</Rolls>
 <Taps>386</Taps>
 </RadarValues>
-<Score>97437303</Score>
-<SurviveSeconds>97.217705</SurviveSeconds>
+<Score>97015241</Score>
+<SurviveSeconds>97.228561</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
 <Boo>0</Boo>
 <Good>0</Good>
-<Great>8</Great>
+<Great>4</Great>
 <HitMine>0</HitMine>
 <Marvelous>310</Marvelous>
 <Miss>0</Miss>
-<Perfect>68</Perfect>
+<Perfect>72</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-12</LastPlayed>
-<NumTimesPlayed>3</NumTimesPlayed>
+<LastPlayed>2017-10-24</LastPlayed>
+<NumTimesPlayed>5</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -13701,8 +15285,8 @@ return tab1</Data>
 <Perfect>46</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-20</LastPlayed>
-<NumTimesPlayed>2</NumTimesPlayed>
+<LastPlayed>2017-11-01</LastPlayed>
+<NumTimesPlayed>4</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 <Steps Difficulty='Hard' StepsType='dance-double' >
@@ -13751,7 +15335,7 @@ return tab1</Data>
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
 <HighScore>
-<DateTime>2017-10-16 20:28:49</DateTime>
+<DateTime>2017-11-01 18:41:57</DateTime>
 <Grade>Tier04</Grade>
 <HoldNoteScores>
 <NG>0</NG>
@@ -13761,7 +15345,7 @@ return tab1</Data>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
 <Modifiers>3.4x, Overhead, metal</Modifiers>
 <Name>BAW</Name>
-<PercentDP>0.965043</PercentDP>
+<PercentDP>0.973066</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
@@ -13772,21 +15356,21 @@ return tab1</Data>
 <Rolls>0</Rolls>
 <Taps>348</Taps>
 </RadarValues>
-<Score>97998856</Score>
-<SurviveSeconds>103.978905</SurviveSeconds>
+<Score>98443714</Score>
+<SurviveSeconds>103.980782</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
 <Boo>0</Boo>
 <Good>0</Good>
-<Great>2</Great>
+<Great>1</Great>
 <HitMine>0</HitMine>
-<Marvelous>291</Marvelous>
+<Marvelous>303</Marvelous>
 <Miss>0</Miss>
-<Perfect>55</Perfect>
+<Perfect>44</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-16</LastPlayed>
-<NumTimesPlayed>6</NumTimesPlayed>
+<LastPlayed>2017-11-01</LastPlayed>
+<NumTimesPlayed>10</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -13794,7 +15378,7 @@ return tab1</Data>
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
 <HighScore>
-<DateTime>2017-10-12 18:29:36</DateTime>
+<DateTime>2017-10-24 17:56:47</DateTime>
 <Grade>Tier04</Grade>
 <HoldNoteScores>
 <NG>0</NG>
@@ -13802,9 +15386,9 @@ return tab1</Data>
 </HoldNoteScores>
 <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>2.9x, Overhead, vivid</Modifiers>
+<Modifiers>2.9x, Overhead, metal</Modifiers>
 <Name>BAW</Name>
-<PercentDP>0.968817</PercentDP>
+<PercentDP>0.971505</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
@@ -13815,21 +15399,27 @@ return tab1</Data>
 <Rolls>0</Rolls>
 <Taps>370</Taps>
 </RadarValues>
-<Score>98441439</Score>
-<SurviveSeconds>103.381683</SurviveSeconds>
+<Score>98352937</Score>
+<SurviveSeconds>103.391907</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
 <Boo>0</Boo>
 <Good>0</Good>
-<Great>1</Great>
+<Great>3</Great>
 <HitMine>0</HitMine>
-<Marvelous>314</Marvelous>
+<Marvelous>323</Marvelous>
 <Miss>0</Miss>
-<Perfect>55</Perfect>
+<Perfect>44</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-20</LastPlayed>
-<NumTimesPlayed>8</NumTimesPlayed>
+<LastPlayed>2017-11-01</LastPlayed>
+<NumTimesPlayed>15</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+<Steps Difficulty='Hard' StepsType='dance-double' >
+<HighScoreList>
+<LastPlayed>2017-11-01</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -13964,7 +15554,7 @@ return tab1</Data>
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
 <HighScore>
-<DateTime>2017-10-18 17:21:49</DateTime>
+<DateTime>2017-11-01 18:02:04</DateTime>
 <Grade>Tier05</Grade>
 <HoldNoteScores>
 <NG>0</NG>
@@ -13974,7 +15564,7 @@ return tab1</Data>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
 <Modifiers>5x, Overhead, metal</Modifiers>
 <Name>BAW</Name>
-<PercentDP>0.947967</PercentDP>
+<PercentDP>0.956911</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
@@ -13985,21 +15575,21 @@ return tab1</Data>
 <Rolls>0</Rolls>
 <Taps>241</Taps>
 </RadarValues>
-<Score>87799250</Score>
-<SurviveSeconds>98.791710</SurviveSeconds>
+<Score>88091037</Score>
+<SurviveSeconds>98.791382</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
 <Boo>0</Boo>
 <Good>0</Good>
-<Great>0</Great>
+<Great>1</Great>
 <HitMine>0</HitMine>
-<Marvelous>177</Marvelous>
+<Marvelous>190</Marvelous>
 <Miss>0</Miss>
-<Perfect>64</Perfect>
+<Perfect>50</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-18</LastPlayed>
-<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2017-11-01</LastPlayed>
+<NumTimesPlayed>3</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -14168,8 +15758,8 @@ return tab1</Data>
 <Perfect>73</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-20</LastPlayed>
-<NumTimesPlayed>3</NumTimesPlayed>
+<LastPlayed>2017-11-01</LastPlayed>
+<NumTimesPlayed>4</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 <Steps Difficulty='Hard' StepsType='dance-double' >
@@ -14312,42 +15902,42 @@ return tab1</Data>
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
 <HighScore>
-<DateTime>2017-09-20 18:47:10</DateTime>
-<Grade>Tier08</Grade>
+<DateTime>2017-11-01 18:07:29</DateTime>
+<Grade>Tier06</Grade>
 <HoldNoteScores>
 <NG>0</NG>
 <OK>0</OK>
 </HoldNoteScores>
 <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>3.5x, Overhead, vivid</Modifiers>
+<Modifiers>4x, Overhead, metal</Modifiers>
 <Name>BAW</Name>
-<PercentDP>0.865060</PercentDP>
+<PercentDP>0.926104</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
 <Hands>0</Hands>
 <Holds>0</Holds>
-<Jumps>5</Jumps>
+<Jumps>6</Jumps>
 <Mines>0</Mines>
 <Rolls>0</Rolls>
-<Taps>248</Taps>
+<Taps>249</Taps>
 </RadarValues>
-<Score>91113579</Score>
-<SurviveSeconds>91.210365</SurviveSeconds>
+<Score>95762894</Score>
+<SurviveSeconds>91.211891</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
 <Boo>0</Boo>
 <Good>0</Good>
-<Great>25</Great>
+<Great>11</Great>
 <HitMine>0</HitMine>
-<Marvelous>147</Marvelous>
-<Miss>1</Miss>
-<Perfect>76</Perfect>
+<Marvelous>179</Marvelous>
+<Miss>0</Miss>
+<Perfect>59</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-09-20</LastPlayed>
-<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2017-11-01</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -14604,8 +16194,8 @@ return tab1</Data>
 <Perfect>57</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-13</LastPlayed>
-<NumTimesPlayed>3</NumTimesPlayed>
+<LastPlayed>2017-10-24</LastPlayed>
+<NumTimesPlayed>4</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 <Steps Difficulty='Medium' StepsType='dance-double' >
@@ -14740,7 +16330,7 @@ return tab1</Data>
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
 <HighScore>
-<DateTime>2017-10-18 17:34:10</DateTime>
+<DateTime>2017-11-01 18:09:48</DateTime>
 <Grade>Tier04</Grade>
 <HoldNoteScores>
 <NG>0</NG>
@@ -14748,9 +16338,9 @@ return tab1</Data>
 </HoldNoteScores>
 <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>3.3x, Overhead, metal</Modifiers>
+<Modifiers>3.4x, Overhead, metal</Modifiers>
 <Name>BAW</Name>
-<PercentDP>0.962112</PercentDP>
+<PercentDP>0.970186</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
@@ -14761,21 +16351,21 @@ return tab1</Data>
 <Rolls>0</Rolls>
 <Taps>316</Taps>
 </RadarValues>
-<Score>68697803</Score>
-<SurviveSeconds>99.857979</SurviveSeconds>
+<Score>68968638</Score>
+<SurviveSeconds>99.849754</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
 <Boo>0</Boo>
 <Good>0</Good>
-<Great>3</Great>
+<Great>1</Great>
 <HitMine>0</HitMine>
-<Marvelous>261</Marvelous>
+<Marvelous>270</Marvelous>
 <Miss>0</Miss>
-<Perfect>52</Perfect>
+<Perfect>45</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-18</LastPlayed>
-<NumTimesPlayed>2</NumTimesPlayed>
+<LastPlayed>2017-11-01</LastPlayed>
+<NumTimesPlayed>3</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -14817,8 +16407,8 @@ return tab1</Data>
 <Perfect>55</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-18</LastPlayed>
-<NumTimesPlayed>3</NumTimesPlayed>
+<LastPlayed>2017-11-01</LastPlayed>
+<NumTimesPlayed>4</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -14907,6 +16497,47 @@ return tab1</Data>
 <NumTimesPlayed>2</NumTimesPlayed>
 </HighScoreList>
 </Steps>
+<Steps Difficulty='Challenge' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2017-10-21 17:06:07</DateTime>
+<Grade>Tier07</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>8</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>3.4x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.919540</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>8</Holds>
+<Jumps>9</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>427</Taps>
+</RadarValues>
+<Score>95073923</Score>
+<SurviveSeconds>92.712463</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>0</Good>
+<Great>25</Great>
+<HitMine>0</HitMine>
+<Marvelous>302</Marvelous>
+<Miss>0</Miss>
+<Perfect>100</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-10-21</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
 </Song>
 <Song Dir='Songs/DDR SuperNOVA/No.13/' >
 <Steps Difficulty='Hard' StepsType='dance-single' >
@@ -14955,17 +16586,17 @@ return tab1</Data>
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
 <HighScore>
-<DateTime>2017-09-22 21:22:46</DateTime>
-<Grade>Tier06</Grade>
+<DateTime>2017-10-24 19:43:36</DateTime>
+<Grade>Tier05</Grade>
 <HoldNoteScores>
 <NG>0</NG>
 <OK>22</OK>
 </HoldNoteScores>
 <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>3.1x, Overhead, vivid</Modifiers>
-<Name>BAWD</Name>
-<PercentDP>0.937180</PercentDP>
+<Modifiers>3.5x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.955128</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
@@ -14976,21 +16607,21 @@ return tab1</Data>
 <Rolls>0</Rolls>
 <Taps>290</Taps>
 </RadarValues>
-<Score>96950517</Score>
-<SurviveSeconds>96.817467</SurviveSeconds>
+<Score>97632499</Score>
+<SurviveSeconds>96.820160</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
 <Boo>0</Boo>
 <Good>0</Good>
-<Great>11</Great>
+<Great>5</Great>
 <HitMine>0</HitMine>
-<Marvelous>214</Marvelous>
+<Marvelous>230</Marvelous>
 <Miss>0</Miss>
-<Perfect>65</Perfect>
+<Perfect>55</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-09-22</LastPlayed>
-<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2017-10-24</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 <Steps Difficulty='Medium' StepsType='dance-double' >
@@ -15078,11 +16709,54 @@ return tab1</Data>
 </HighScoreList>
 </Steps>
 </Song>
+<Song Dir='Songs/DDR SuperNOVA/PUT YOUR FAITH IN ME ~SATURDAY NIGHT MIX~/' >
+<Steps Difficulty='Hard' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2017-10-25 17:48:27</DateTime>
+<Grade>Tier06</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>12</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>4.5x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.937879</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>12</Holds>
+<Jumps>13</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>252</Taps>
+</RadarValues>
+<Score>87037569</Score>
+<SurviveSeconds>94.710732</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>0</Good>
+<Great>8</Great>
+<HitMine>0</HitMine>
+<Marvelous>186</Marvelous>
+<Miss>0</Miss>
+<Perfect>58</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-10-25</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
 <Song Dir='Songs/DDR SuperNOVA/Polovtsian Dances And Chorus/' >
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
 <HighScore>
-<DateTime>2017-10-13 19:22:35</DateTime>
+<DateTime>2017-11-01 18:16:41</DateTime>
 <Grade>Tier05</Grade>
 <HoldNoteScores>
 <NG>0</NG>
@@ -15090,9 +16764,9 @@ return tab1</Data>
 </HoldNoteScores>
 <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>3.6x, Overhead, metal</Modifiers>
+<Modifiers>3.7x, Overhead, metal</Modifiers>
 <Name>BAW</Name>
-<PercentDP>0.942169</PercentDP>
+<PercentDP>0.946386</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
@@ -15103,21 +16777,21 @@ return tab1</Data>
 <Rolls>0</Rolls>
 <Taps>328</Taps>
 </RadarValues>
-<Score>97152579</Score>
-<SurviveSeconds>96.525856</SurviveSeconds>
+<Score>97364594</Score>
+<SurviveSeconds>96.531898</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
 <Boo>0</Boo>
 <Good>0</Good>
 <Great>5</Great>
 <HitMine>0</HitMine>
-<Marvelous>242</Marvelous>
+<Marvelous>249</Marvelous>
 <Miss>0</Miss>
-<Perfect>81</Perfect>
+<Perfect>74</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-13</LastPlayed>
-<NumTimesPlayed>5</NumTimesPlayed>
+<LastPlayed>2017-11-01</LastPlayed>
+<NumTimesPlayed>6</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 <Steps Difficulty='Medium' StepsType='dance-double' >
@@ -15293,7 +16967,7 @@ return tab1</Data>
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
 <HighScore>
-<DateTime>2017-10-08 17:03:29</DateTime>
+<DateTime>2017-10-25 18:44:31</DateTime>
 <Grade>Tier05</Grade>
 <HoldNoteScores>
 <NG>0</NG>
@@ -15301,9 +16975,9 @@ return tab1</Data>
 </HoldNoteScores>
 <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>2.7x, Overhead, vivid</Modifiers>
+<Modifiers>2.8x, Overhead, metal</Modifiers>
 <Name>BAW</Name>
-<PercentDP>0.945503</PercentDP>
+<PercentDP>0.946561</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
@@ -15314,21 +16988,21 @@ return tab1</Data>
 <Rolls>0</Rolls>
 <Taps>376</Taps>
 </RadarValues>
-<Score>96968490</Score>
-<SurviveSeconds>95.619629</SurviveSeconds>
+<Score>96774024</Score>
+<SurviveSeconds>95.642036</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
 <Boo>0</Boo>
 <Good>0</Good>
-<Great>9</Great>
+<Great>5</Great>
 <HitMine>0</HitMine>
-<Marvelous>291</Marvelous>
+<Marvelous>285</Marvelous>
 <Miss>0</Miss>
-<Perfect>76</Perfect>
+<Perfect>86</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-08</LastPlayed>
-<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2017-10-25</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 <Steps Difficulty='Medium' StepsType='dance-double' >
@@ -15377,7 +17051,7 @@ return tab1</Data>
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
 <HighScore>
-<DateTime>2017-10-10 18:54:18</DateTime>
+<DateTime>2017-10-21 17:25:24</DateTime>
 <Grade>Tier06</Grade>
 <HoldNoteScores>
 <NG>0</NG>
@@ -15385,9 +17059,9 @@ return tab1</Data>
 </HoldNoteScores>
 <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>2.75x, Overhead, vivid</Modifiers>
+<Modifiers>2.8x, Overhead, metal</Modifiers>
 <Name>BAW</Name>
-<PercentDP>0.925062</PercentDP>
+<PercentDP>0.933002</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
@@ -15398,21 +17072,21 @@ return tab1</Data>
 <Rolls>0</Rolls>
 <Taps>385</Taps>
 </RadarValues>
-<Score>95880280</Score>
-<SurviveSeconds>98.777130</SurviveSeconds>
+<Score>96738696</Score>
+<SurviveSeconds>98.777016</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
 <Boo>0</Boo>
 <Good>0</Good>
-<Great>16</Great>
+<Great>14</Great>
 <HitMine>0</HitMine>
-<Marvelous>266</Marvelous>
+<Marvelous>278</Marvelous>
 <Miss>0</Miss>
-<Perfect>103</Perfect>
+<Perfect>93</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-10</LastPlayed>
-<NumTimesPlayed>2</NumTimesPlayed>
+<LastPlayed>2017-10-21</LastPlayed>
+<NumTimesPlayed>3</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -15538,8 +17212,8 @@ return tab1</Data>
 <Perfect>42</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-20</LastPlayed>
-<NumTimesPlayed>8</NumTimesPlayed>
+<LastPlayed>2017-10-25</LastPlayed>
+<NumTimesPlayed>10</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 <Steps Difficulty='Hard' StepsType='dance-double' >
@@ -15668,6 +17342,49 @@ return tab1</Data>
 </HighScoreList>
 </Steps>
 </Song>
+<Song Dir='Songs/DDR SuperNOVA/Star Gate Heaven/' >
+<Steps Difficulty='Hard' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2017-10-21 17:23:03</DateTime>
+<Grade>Tier04</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>6</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>3.75x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.962369</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>6</Holds>
+<Jumps>1</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>281</Taps>
+</RadarValues>
+<Score>97530968</Score>
+<SurviveSeconds>90.185898</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>0</Good>
+<Great>2</Great>
+<HitMine>0</HitMine>
+<Marvelous>231</Marvelous>
+<Miss>0</Miss>
+<Perfect>48</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-10-21</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
 <Song Dir='Songs/DDR SuperNOVA/TOXIC (FT company Edit)/' >
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
@@ -15715,17 +17432,17 @@ return tab1</Data>
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
 <HighScore>
-<DateTime>2017-10-08 17:09:19</DateTime>
-<Grade>Tier05</Grade>
+<DateTime>2017-11-01 18:19:10</DateTime>
+<Grade>Tier04</Grade>
 <HoldNoteScores>
 <NG>0</NG>
 <OK>1</OK>
 </HoldNoteScores>
 <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>2.8x, Overhead, vivid</Modifiers>
+<Modifiers>2.9x, Overhead, metal</Modifiers>
 <Name>BAW</Name>
-<PercentDP>0.950847</PercentDP>
+<PercentDP>0.963842</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
@@ -15736,21 +17453,21 @@ return tab1</Data>
 <Rolls>0</Rolls>
 <Taps>353</Taps>
 </RadarValues>
-<Score>97190894</Score>
-<SurviveSeconds>96.316399</SurviveSeconds>
+<Score>98156286</Score>
+<SurviveSeconds>96.327477</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
 <Boo>0</Boo>
 <Good>0</Good>
-<Great>4</Great>
+<Great>3</Great>
 <HitMine>0</HitMine>
-<Marvelous>274</Marvelous>
+<Marvelous>295</Marvelous>
 <Miss>0</Miss>
-<Perfect>75</Perfect>
+<Perfect>55</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-08</LastPlayed>
-<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2017-11-01</LastPlayed>
+<NumTimesPlayed>3</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -15758,7 +17475,7 @@ return tab1</Data>
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
 <HighScore>
-<DateTime>2017-10-13 19:30:44</DateTime>
+<DateTime>2017-10-24 18:43:49</DateTime>
 <Grade>Tier06</Grade>
 <HoldNoteScores>
 <NG>0</NG>
@@ -15766,9 +17483,9 @@ return tab1</Data>
 </HoldNoteScores>
 <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>3.6x, Overhead, metal</Modifiers>
+<Modifiers>3.7x, Overhead, metal</Modifiers>
 <Name>BAW</Name>
-<PercentDP>0.922159</PercentDP>
+<PercentDP>0.931250</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
@@ -15779,21 +17496,21 @@ return tab1</Data>
 <Rolls>0</Rolls>
 <Taps>347</Taps>
 </RadarValues>
-<Score>93520312</Score>
-<SurviveSeconds>94.475960</SurviveSeconds>
+<Score>95699365</Score>
+<SurviveSeconds>94.476738</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
 <Boo>0</Boo>
 <Good>0</Good>
-<Great>21</Great>
+<Great>13</Great>
 <HitMine>0</HitMine>
 <Marvelous>252</Marvelous>
 <Miss>0</Miss>
-<Perfect>74</Perfect>
+<Perfect>82</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-13</LastPlayed>
-<NumTimesPlayed>4</NumTimesPlayed>
+<LastPlayed>2017-11-01</LastPlayed>
+<NumTimesPlayed>8</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -15844,42 +17561,42 @@ return tab1</Data>
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
 <HighScore>
-<DateTime>2017-10-20 19:15:33</DateTime>
-<Grade>Tier05</Grade>
+<DateTime>2017-10-25 17:57:57</DateTime>
+<Grade>Tier04</Grade>
 <HoldNoteScores>
-<NG>1</NG>
-<OK>20</OK>
+<NG>0</NG>
+<OK>21</OK>
 </HoldNoteScores>
 <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
 <Modifiers>3.2x, Overhead, metal</Modifiers>
 <Name>BAW</Name>
-<PercentDP>0.948624</PercentDP>
+<PercentDP>0.961468</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
 <Hands>0</Hands>
-<Holds>20</Holds>
+<Holds>21</Holds>
 <Jumps>0</Jumps>
 <Mines>0</Mines>
 <Rolls>0</Rolls>
 <Taps>197</Taps>
 </RadarValues>
-<Score>96425796</Score>
-<SurviveSeconds>89.437874</SurviveSeconds>
+<Score>97859749</Score>
+<SurviveSeconds>89.446037</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
 <Boo>0</Boo>
 <Good>0</Good>
-<Great>4</Great>
+<Great>1</Great>
 <HitMine>0</HitMine>
-<Marvelous>154</Marvelous>
+<Marvelous>157</Marvelous>
 <Miss>0</Miss>
 <Perfect>39</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-20</LastPlayed>
-<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2017-10-25</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 <Steps Difficulty='Hard' StepsType='dance-double' >
@@ -15921,6 +17638,49 @@ return tab1</Data>
 </HighScore>
 <LastPlayed>2017-09-21</LastPlayed>
 <NumTimesPlayed>3</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/DDR SuperNOVA/WHAT A WONDERFUL WORLD/' >
+<Steps Difficulty='Hard' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2017-10-25 18:00:05</DateTime>
+<Grade>Tier06</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>0</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>3.8x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.931159</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>0</Holds>
+<Jumps>1</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>276</Taps>
+</RadarValues>
+<Score>96373404</Score>
+<SurviveSeconds>88.266548</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>0</Good>
+<Great>10</Great>
+<HitMine>0</HitMine>
+<Marvelous>201</Marvelous>
+<Miss>0</Miss>
+<Perfect>65</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-10-25</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -16051,6 +17811,49 @@ return tab1</Data>
 </HighScoreList>
 </Steps>
 </Song>
+<Song Dir='Songs/DDR SuperNOVA/un deux trois/' >
+<Steps Difficulty='Hard' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2017-10-25 17:55:56</DateTime>
+<Grade>Tier05</Grade>
+<HoldNoteScores>
+<NG>1</NG>
+<OK>12</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>3.9x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.955714</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>12</Holds>
+<Jumps>19</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>267</Taps>
+</RadarValues>
+<Score>97391967</Score>
+<SurviveSeconds>95.090164</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>0</Good>
+<Great>4</Great>
+<HitMine>0</HitMine>
+<Marvelous>218</Marvelous>
+<Miss>0</Miss>
+<Perfect>45</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-10-25</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
 <Song Dir='Songs/DDR/My Fire (UKS Remix)/' >
 <Steps Difficulty='Challenge' StepsType='dance-single' >
 <HighScoreList>
@@ -16141,6 +17944,49 @@ return tab1</Data>
 <Steps Difficulty='Hard' StepsType='dance-double' >
 <HighScoreList>
 <LastPlayed>2017-09-30</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/DDRMAX 6th MIX/CANDY STAR/' >
+<Steps Difficulty='Hard' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2017-10-21 17:09:05</DateTime>
+<Grade>Tier04</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>29</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>2.8x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.965169</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>29</Holds>
+<Jumps>30</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>327</Taps>
+</RadarValues>
+<Score>97814027</Score>
+<SurviveSeconds>88.713356</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>0</Good>
+<Great>3</Great>
+<HitMine>0</HitMine>
+<Marvelous>271</Marvelous>
+<Miss>0</Miss>
+<Perfect>53</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-10-21</LastPlayed>
 <NumTimesPlayed>1</NumTimesPlayed>
 </HighScoreList>
 </Steps>
@@ -16316,6 +18162,47 @@ return tab1</Data>
 </Steps>
 </Song>
 <Song Dir='Songs/DDRMAX 6th MIX/FRECKLES (KCP Re-Edit)/' >
+<Steps Difficulty='Hard' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2017-10-24 19:20:31</DateTime>
+<Grade>Tier04</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>12</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>9de5f5cbbed770bc</MachineGuid>
+<Modifiers>3.6x, Overhead, metal</Modifiers>
+<Name>BAW</Name>
+<PercentDP>0.963190</PercentDP>
+<PlayerGuid>fb4a8b439bad234d</PlayerGuid>
+<ProductID>5</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>12</Holds>
+<Jumps>12</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>314</Taps>
+</RadarValues>
+<Score>68820268</Score>
+<SurviveSeconds>95.623192</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>0</Good>
+<Great>0</Great>
+<HitMine>0</HitMine>
+<Marvelous>254</Marvelous>
+<Miss>0</Miss>
+<Perfect>60</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2017-10-24</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
 <Steps Difficulty='Hard' StepsType='dance-double' >
 <HighScoreList>
 <LastPlayed>2017-09-20</LastPlayed>
@@ -16361,8 +18248,8 @@ return tab1</Data>
 <Perfect>66</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-09-22</LastPlayed>
-<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2017-10-25</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -16456,7 +18343,7 @@ return tab1</Data>
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
 <HighScore>
-<DateTime>2017-10-18 18:00:14</DateTime>
+<DateTime>2017-10-25 19:09:08</DateTime>
 <Grade>Tier05</Grade>
 <HoldNoteScores>
 <NG>0</NG>
@@ -16464,9 +18351,9 @@ return tab1</Data>
 </HoldNoteScores>
 <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>4x, Overhead, metal</Modifiers>
+<Modifiers>4.2x, Overhead, metal</Modifiers>
 <Name>BAW</Name>
-<PercentDP>0.946250</PercentDP>
+<PercentDP>0.948125</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
@@ -16477,21 +18364,21 @@ return tab1</Data>
 <Rolls>0</Rolls>
 <Taps>316</Taps>
 </RadarValues>
-<Score>67963644</Score>
-<SurviveSeconds>86.160118</SurviveSeconds>
+<Score>67731677</Score>
+<SurviveSeconds>86.169678</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
 <Boo>0</Boo>
 <Good>0</Good>
-<Great>5</Great>
+<Great>7</Great>
 <HitMine>0</HitMine>
-<Marvelous>240</Marvelous>
+<Marvelous>247</Marvelous>
 <Miss>0</Miss>
-<Perfect>71</Perfect>
+<Perfect>62</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-18</LastPlayed>
-<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2017-10-25</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 <Steps Difficulty='Hard' StepsType='dance-double' >
@@ -17012,8 +18899,8 @@ return tab1</Data>
 <Perfect>31</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-16</LastPlayed>
-<NumTimesPlayed>2</NumTimesPlayed>
+<LastPlayed>2017-11-01</LastPlayed>
+<NumTimesPlayed>5</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -17021,17 +18908,17 @@ return tab1</Data>
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
 <HighScore>
-<DateTime>2017-09-22 21:52:04</DateTime>
-<Grade>Tier07</Grade>
+<DateTime>2017-10-25 18:33:14</DateTime>
+<Grade>Tier06</Grade>
 <HoldNoteScores>
 <NG>0</NG>
 <OK>29</OK>
 </HoldNoteScores>
 <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>2.5x, Overhead, vivid</Modifiers>
+<Modifiers>2.8x, Overhead, metal</Modifiers>
 <Name>BAW</Name>
-<PercentDP>0.909130</PercentDP>
+<PercentDP>0.929130</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
@@ -17040,23 +18927,23 @@ return tab1</Data>
 <Jumps>30</Jumps>
 <Mines>0</Mines>
 <Rolls>0</Rolls>
-<Taps>429</Taps>
+<Taps>430</Taps>
 </RadarValues>
-<Score>95392910</Score>
-<SurviveSeconds>93.127098</SurviveSeconds>
+<Score>95535318</Score>
+<SurviveSeconds>93.121040</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
 <Boo>0</Boo>
-<Good>0</Good>
-<Great>15</Great>
+<Good>2</Good>
+<Great>12</Great>
 <HitMine>0</HitMine>
-<Marvelous>284</Marvelous>
-<Miss>2</Miss>
-<Perfect>130</Perfect>
+<Marvelous>316</Marvelous>
+<Miss>1</Miss>
+<Perfect>100</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-09-22</LastPlayed>
-<NumTimesPlayed>4</NumTimesPlayed>
+<LastPlayed>2017-10-25</LastPlayed>
+<NumTimesPlayed>5</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -17449,17 +19336,17 @@ return tab1</Data>
 <Steps Difficulty='Challenge' StepsType='dance-single' >
 <HighScoreList>
 <HighScore>
-<DateTime>2017-10-10 18:11:57</DateTime>
-<Grade>Tier05</Grade>
+<DateTime>2017-10-25 19:07:01</DateTime>
+<Grade>Tier04</Grade>
 <HoldNoteScores>
 <NG>0</NG>
 <OK>3</OK>
 </HoldNoteScores>
 <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>4x, Overhead, vivid</Modifiers>
+<Modifiers>4.1x, Overhead, metal</Modifiers>
 <Name>BAW</Name>
-<PercentDP>0.947735</PercentDP>
+<PercentDP>0.960279</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
@@ -17470,21 +19357,21 @@ return tab1</Data>
 <Rolls>0</Rolls>
 <Taps>284</Taps>
 </RadarValues>
-<Score>97170437</Score>
-<SurviveSeconds>95.709335</SurviveSeconds>
+<Score>97713896</Score>
+<SurviveSeconds>95.717163</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
 <Boo>0</Boo>
-<Good>1</Good>
-<Great>2</Great>
+<Good>0</Good>
+<Great>4</Great>
 <HitMine>0</HitMine>
-<Marvelous>217</Marvelous>
+<Marvelous>235</Marvelous>
 <Miss>0</Miss>
-<Perfect>64</Perfect>
+<Perfect>45</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-10</LastPlayed>
-<NumTimesPlayed>2</NumTimesPlayed>
+<LastPlayed>2017-10-25</LastPlayed>
+<NumTimesPlayed>3</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -17913,8 +19800,8 @@ return tab1</Data>
 <Perfect>36</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-16</LastPlayed>
-<NumTimesPlayed>3</NumTimesPlayed>
+<LastPlayed>2017-10-24</LastPlayed>
+<NumTimesPlayed>4</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -18136,8 +20023,8 @@ return tab1</Data>
 <Perfect>76</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-10</LastPlayed>
-<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2017-10-25</LastPlayed>
+<NumTimesPlayed>3</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -18188,17 +20075,17 @@ return tab1</Data>
 <Steps Difficulty='Hard' StepsType='dance-single' >
 <HighScoreList>
 <HighScore>
-<DateTime>2017-10-02 19:13:55</DateTime>
-<Grade>Tier06</Grade>
+<DateTime>2017-10-25 19:01:18</DateTime>
+<Grade>Tier05</Grade>
 <HoldNoteScores>
 <NG>0</NG>
 <OK>5</OK>
 </HoldNoteScores>
 <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
 <MachineGuid>9de5f5cbbed770bc</MachineGuid>
-<Modifiers>3.5x, Overhead, vivid</Modifiers>
+<Modifiers>3.9x, Overhead, metal</Modifiers>
 <Name>BAW</Name>
-<PercentDP>0.928750</PercentDP>
+<PercentDP>0.940625</PercentDP>
 <PlayerGuid>fb4a8b439bad234d</PlayerGuid>
 <ProductID>5</ProductID>
 <RadarValues>
@@ -18209,21 +20096,21 @@ return tab1</Data>
 <Rolls>0</Rolls>
 <Taps>315</Taps>
 </RadarValues>
-<Score>96064251</Score>
-<SurviveSeconds>95.942841</SurviveSeconds>
+<Score>95626362</Score>
+<SurviveSeconds>95.932129</SurviveSeconds>
 <TapNoteScores>
 <AvoidMine>0</AvoidMine>
 <Boo>0</Boo>
 <Good>0</Good>
 <Great>11</Great>
 <HitMine>0</HitMine>
-<Marvelous>223</Marvelous>
+<Marvelous>242</Marvelous>
 <Miss>0</Miss>
-<Perfect>81</Perfect>
+<Perfect>62</Perfect>
 </TapNoteScores>
 </HighScore>
-<LastPlayed>2017-10-02</LastPlayed>
-<NumTimesPlayed>3</NumTimesPlayed>
+<LastPlayed>2017-10-25</LastPlayed>
+<NumTimesPlayed>4</NumTimesPlayed>
 </HighScoreList>
 </Steps>
 </Song>
