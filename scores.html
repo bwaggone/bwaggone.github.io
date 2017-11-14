@@ -72,6 +72,8 @@
       <ul class="tabs">
         <li class="tab col s3"><a class="active" href="#normal">Normal Songs</a></li>
         <li class="tab col s3"><a href="#boss">Boss Songs</a></li>
+        <li class="tab col s3"><a href="#15s">15 Footers</a></li>
+        <li class="tab col s3"><a href="#16s">16 Footers</a></li>
       </ul>
     </div>
     <!-- Normal Songs -->
@@ -139,6 +141,73 @@
 
 
 	</div>
+
+	<!-- 15s Songs -->
+	<div id ="15s" class="col s12">
+	<p class="center" style="background: rgba(0,0,0,0.5);">This is a list of some of my best scores in DDR. I know it's not much, but they're mine.</p>
+<table class="responsive-table">
+	<thead>
+		<th class="wideRow" style="width: 256px;"></th>
+              <th style="padding-left: 20px;">Song Name</th>
+	      <th class="truncate2">Grade (ITG Scoring)</th>
+              <th>Marvelous</th>
+              <th>Perfect</th>
+              <th>Great</th>
+              <th>Good</th>
+              <th>Way Off</th>
+              <th>Miss</th>
+	</thead>
+	<tbody>
+		<tr ng-repeat="x in hard15s | orderBy:'grade':-1">
+			<td class="wideRow"><img ng-src="images/{{x.name}}.png"></img></td>
+			<td class="truncate2" ng-class="{gold: x.gr8 + x.good + x.off + x.miss == 0}">{{ x.name }}</td>
+			<td ng-class="{gold: x.gr8 + x.good + x.off + x.miss == 0}"><span ng-if="x.grade > 96">&#9733 </span>{{ x.grade | number : 2 }}%</td>
+			<td>{{ x.mar }}</td>
+			<td>{{ x.per }}</td>
+			<td>{{ x.gr8 }}</td>
+			<td>{{ x.good }}</td>
+			<td>{{ x.off }}</td>
+			<td>{{ x.miss }}</td>
+		</tr>
+
+	</tbody>
+</table>
+	</div>
+
+	<!-- 16s Songs -->
+	<div id ="16s" class="col s12">
+	<p class="center" style="background: rgba(0,0,0,0.5);">This is a list of some of my best scores in DDR. I know it's not much, but they're mine.</p>
+<table class="responsive-table">
+	<thead>
+		<th class="wideRow" style="width: 256px;"></th>
+              <th style="padding-left: 20px;">Song Name</th>
+	      <th class="truncate2">Grade (ITG Scoring)</th>
+              <th>Marvelous</th>
+              <th>Perfect</th>
+              <th>Great</th>
+              <th>Good</th>
+              <th>Way Off</th>
+              <th>Miss</th>
+	</thead>
+	<tbody>
+		<tr ng-repeat="x in hard16s | orderBy:'grade':-1">
+			<td class="wideRow"><img ng-src="images/{{x.name}}.png"></img></td>
+			<td class="truncate2" ng-class="{gold: x.gr8 + x.good + x.off + x.miss == 0}">{{ x.name }}</td>
+			<td ng-class="{gold: x.gr8 + x.good + x.off + x.miss == 0}"><span ng-if="x.grade > 96">&#9733 </span>{{ x.grade | number : 2 }}%</td>
+			<td>{{ x.mar }}</td>
+			<td>{{ x.per }}</td>
+			<td>{{ x.gr8 }}</td>
+			<td>{{ x.good }}</td>
+			<td>{{ x.off }}</td>
+			<td>{{ x.miss }}</td>
+		</tr>
+
+	</tbody>
+</table>
+	</div>
+
+
+
 </div>
 </main>
 

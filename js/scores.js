@@ -1,6 +1,8 @@
 'use strict';   // See note about 'use strict'; below
 
-var HARDSONGS = ['Dadadadadadadadadada', 'Arrabbiata', 'Chinese Snowy Dance', 'CRAZY LOVE', 'KIMONO PRINCESS', 'ZETA ~The World of Prime Numbers and the Transcendental Being~'];
+var HARDSONGS = ['Dadadadadadadadadada', 'Arrabbiata', 'Chinese Snowy Dance', 'CRAZY LOVE', 'KIMONO PRINCESS', 'ZETA ~The World of Prime Numbers and the Transcendental Being~', 'ZEPHYRANTHES', 'out of focus'];
+var diff15 = ['Arrabbiata', 'CRAZY LOVE', 'KIMONO PRINCESS', 'ZETA ~The World of Prime Numbers and the Transcendental Being~', 'ZEPHYRANTHES'];
+var diff16 = ['Dadadadadadadadadada', 'Chinese Snowy Dance', 'out of focus']
 
 
 $(document).ready(function(){
@@ -82,6 +84,13 @@ myApp.controller('myCtrl', function($scope, $http) {
 
 		if(HARDSONGS.indexOf(datum.name) >= 0){
 			datum.tier = 'hard';
+			if(diff15.indexOf(datum.name) >= 0){
+				datum.tier = 'hard15';
+
+			}else{
+				datum.tier = 'hard16';
+
+			}
 			return datum;
 		}
 		else if(percentdp < minScore)
@@ -105,12 +114,19 @@ myApp.controller('myCtrl', function($scope, $http) {
 		var allScores = document.evaluate('/Stats/SongScores/*/Steps[(@Difficulty="Hard" or @Difficulty="Challenge") and @StepsType="dance-single"]', xmlDoc, null, XPathResult.ANY_TYPE);
                 var item = allScores.iterateNext();
 		while(item != null){
-			var output = pullSongData(item, "BAW", 0.95);
+			var output = pullSongData(item, "BAW", 0.955);
 			if(output !== false){
-				if(output.tier === 'normal')
+				if(output.tier === 'normal'){
 					$scope.scores.push(output);
-				else
+				}
+				else{
 					$scope.hardScores.push(output);
+					if(output.tier === 'hard15')
+						$scope.hard15s.push(output);
+					else
+						$scope.hard16s.push(output);
+
+				}
 				console.log(output);
 			}
 
@@ -140,6 +156,8 @@ myApp.controller('myCtrl', function($scope, $http) {
 
 	$scope.scores = [];
 	$scope.hardScores = [];
+	$scope.hard15s = [];
+	$scope.hard16s = [];
 
 	$http.get('./data/ddr.csv').success($scope.readScore);
 	$http.get('./data/STATS.XML').success($scope.readXML);
