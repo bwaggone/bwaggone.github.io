@@ -11,7 +11,16 @@ table {
 
 .gold {
 	color: goldenrod;
+}
 
+.cyan {
+	color: cyan;
+	background-color: rgba(0,0,0,0.5) !important;
+}
+
+.purple {
+	color: #B900C6;
+	background-color: rgba(0,0,0,0.5) !important;
 }
 
 

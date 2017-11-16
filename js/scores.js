@@ -1,7 +1,7 @@
 'use strict';   // See note about 'use strict'; below
 
-var HARDSONGS = ['Dadadadadadadadadada', 'Arrabbiata', 'Chinese Snowy Dance', 'CRAZY LOVE', 'KIMONO PRINCESS', 'ZETA ~The World of Prime Numbers and the Transcendental Being~', 'ZEPHYRANTHES', 'out of focus'];
-var diff15 = ['Arrabbiata', 'CRAZY LOVE', 'KIMONO PRINCESS', 'ZETA ~The World of Prime Numbers and the Transcendental Being~', 'ZEPHYRANTHES'];
+var HARDSONGS = ['Dadadadadadadadadada', 'Arrabbiata', 'Chinese Snowy Dance', 'CRAZY LOVE', 'KIMONO PRINCESS', 'ZETA ~The World of Prime Numbers and the Transcendental Being~', 'ZEPHYRANTHES', 'out of focus', 'Silver Dream', 'Beautiful Dream'];
+var diff15 = ['Arrabbiata', 'CRAZY LOVE', 'KIMONO PRINCESS', 'ZETA ~The World of Prime Numbers and the Transcendental Being~', 'ZEPHYRANTHES', 'Silver Dream', 'Beautiful Dream'];
 var diff16 = ['Dadadadadadadadadada', 'Chinese Snowy Dance', 'out of focus']
 
 
@@ -34,7 +34,7 @@ myApp.controller('myCtrl', function($scope, $http) {
 					good: parseInt(data[4]),
 					off: parseInt(data[5]),
 					miss: parseInt(data[6]),
-					diff: parseInt(data[7]),
+					diff: parseString(data[7]),
 					grade: parseFloat(data[8])
 				};
 				lines.push(tarr);
@@ -57,6 +57,7 @@ myApp.controller('myCtrl', function($scope, $http) {
 		var name = _songHighScore.children[6].innerHTML;
 		var percentdp = _songHighScore.children[7].innerHTML;
 		var tapNoteScores = _songHighScore.children[13].children;
+		var difficulty = xmlItem.attributes[0].value;
 
 
 		var boo = tapNoteScores[1].innerHTML;
@@ -74,9 +75,10 @@ myApp.controller('myCtrl', function($scope, $http) {
 			good: good,
 			off: boo,
 			miss: miss,
-			diff: grade,
+			diff: difficulty,
 			grade: percentdp*100,
-			tier: 'normal'
+			tier: 'normal',
+			difficulty: difficulty
 		}
 
 		if(name != playerName)
@@ -91,6 +93,19 @@ myApp.controller('myCtrl', function($scope, $http) {
 				datum.tier = 'hard16';
 
 			}
+
+			if(datum.name === 'out of focus'){
+				if(datum.diff === 'Hard'){
+					datum.tier = 'hard15'
+				}else{
+					datum.tier = 'hard16'
+				}
+			}
+			if(datum.name === 'Beautiful Dream' && datum.diff != 'Challenge'){
+				datum.tier = 'normal';
+
+			}
+
 			return datum;
 		}
 		else if(percentdp < minScore)

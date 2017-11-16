@@ -83,6 +83,7 @@
 	<thead>
 		<th class="wideRow" style="width: 256px;"></th>
               <th style="padding-left: 20px;">Song Name</th>
+	      <th>Difficulty</th>
 	      <th class="truncate2">Grade (ITG Scoring)</th>
               <th>Marvelous</th>
               <th>Perfect</th>
@@ -95,6 +96,7 @@
 		<tr ng-repeat="x in scores | orderBy:'grade':-1">
 			<td class="wideRow"><img ng-src="images/{{x.name}}.png"></img></td>
 			<td class="truncate2" ng-class="{gold: x.gr8 + x.good + x.off + x.miss == 0}">{{ x.name }}</td>
+			<td ng-class="{cyan: x.difficulty == 'Hard', purple: x.difficulty == 'Challenge'}">{{x.difficulty}}</td>
 			<td ng-class="{gold: x.gr8 + x.good + x.off + x.miss == 0}"><span ng-if="x.grade > 98">&#9733 </span><span ng-if="x.grade > 96">&#9733 </span>{{ x.grade | number : 2 }}%</td>
 			<td>{{ x.mar }}</td>
 			<td>{{ x.per }}</td>
@@ -115,6 +117,7 @@
 	<thead>
 		<th class="wideRow" style="width: 256px;"></th>
               <th style="padding-left: 20px;">Song Name</th>
+	      <th>Difficulty</th>
 	      <th class="truncate2">Grade (ITG Scoring)</th>
               <th>Marvelous</th>
               <th>Perfect</th>
@@ -127,6 +130,7 @@
 		<tr ng-repeat="x in hardScores | orderBy:'grade':-1">
 			<td class="wideRow"><img ng-src="images/{{x.name}}.png"></img></td>
 			<td class="truncate2" ng-class="{gold: x.gr8 + x.good + x.off + x.miss == 0}">{{ x.name }}</td>
+			<td ng-class="{cyan: x.difficulty == 'Hard', purple: x.difficulty == 'Challenge'}">{{x.difficulty}}</td>
 			<td ng-class="{gold: x.gr8 + x.good + x.off + x.miss == 0}"><span ng-if="x.grade > 96">&#9733 </span>{{ x.grade | number : 2 }}%</td>
 			<td>{{ x.mar }}</td>
 			<td>{{ x.per }}</td>
@@ -149,6 +153,7 @@
 	<thead>
 		<th class="wideRow" style="width: 256px;"></th>
               <th style="padding-left: 20px;">Song Name</th>
+	      <th>Difficulty</th>
 	      <th class="truncate2">Grade (ITG Scoring)</th>
               <th>Marvelous</th>
               <th>Perfect</th>
@@ -161,6 +166,7 @@
 		<tr ng-repeat="x in hard15s | orderBy:'grade':-1">
 			<td class="wideRow"><img ng-src="images/{{x.name}}.png"></img></td>
 			<td class="truncate2" ng-class="{gold: x.gr8 + x.good + x.off + x.miss == 0}">{{ x.name }}</td>
+			<td ng-class="{cyan: x.difficulty == 'Hard', purple: x.difficulty == 'Challenge'}">{{x.difficulty}}</td>
 			<td ng-class="{gold: x.gr8 + x.good + x.off + x.miss == 0}"><span ng-if="x.grade > 96">&#9733 </span>{{ x.grade | number : 2 }}%</td>
 			<td>{{ x.mar }}</td>
 			<td>{{ x.per }}</td>
@@ -181,6 +187,7 @@
 	<thead>
 		<th class="wideRow" style="width: 256px;"></th>
               <th style="padding-left: 20px;">Song Name</th>
+	      <th>Difficulty</th>
 	      <th class="truncate2">Grade (ITG Scoring)</th>
               <th>Marvelous</th>
               <th>Perfect</th>
@@ -193,6 +200,7 @@
 		<tr ng-repeat="x in hard16s | orderBy:'grade':-1">
 			<td class="wideRow"><img ng-src="images/{{x.name}}.png"></img></td>
 			<td class="truncate2" ng-class="{gold: x.gr8 + x.good + x.off + x.miss == 0}">{{ x.name }}</td>
+			<td ng-class="{cyan: x.difficulty == 'Hard', purple: x.difficulty == 'Challenge'}">{{x.difficulty}}</td>
 			<td ng-class="{gold: x.gr8 + x.good + x.off + x.miss == 0}"><span ng-if="x.grade > 96">&#9733 </span>{{ x.grade | number : 2 }}%</td>
 			<td>{{ x.mar }}</td>
 			<td>{{ x.per }}</td>
