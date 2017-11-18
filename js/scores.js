@@ -1,13 +1,14 @@
 'use strict';   // See note about 'use strict'; below
 
-var HARDSONGS = ['Dadadadadadadadadada', 'Arrabbiata', 'Chinese Snowy Dance', 'CRAZY LOVE', 'KIMONO PRINCESS', 'ZETA ~The World of Prime Numbers and the Transcendental Being~', 'ZEPHYRANTHES', 'out of focus', 'Silver Dream', 'Beautiful Dream'];
-var diff15 = ['Arrabbiata', 'CRAZY LOVE', 'KIMONO PRINCESS', 'ZETA ~The World of Prime Numbers and the Transcendental Being~', 'ZEPHYRANTHES', 'Silver Dream', 'Beautiful Dream'];
+var HARDSONGS = ['Dadadadadadadadadada', 'Arrabbiata', 'Chinese Snowy Dance', 'CRAZY LOVE', 'KIMONO PRINCESS', 'ZETA ~The World of Prime Numbers and the Transcendental Being~', 'ZEPHYRANTHES', 'out of focus', 'Silver Dream', 'Beautiful Dream', 'JOMANDA', 'MAX 300', 'Nostalgia Is Lost', 'Osenju meditation'];
+var diff15 = ['Arrabbiata', 'CRAZY LOVE', 'KIMONO PRINCESS', 'ZETA ~The World of Prime Numbers and the Transcendental Being~', 'ZEPHYRANTHES', 'Silver Dream', 'Beautiful Dream', 'MAX 300', 'JOMANDA', 'Nostalgia Is Lost', 'Osenju meditation'];
 var diff16 = ['Dadadadadadadadadada', 'Chinese Snowy Dance', 'out of focus']
 
 
 $(document).ready(function(){
 	$('.parallax').parallax();
         $('ul.tabs').tabs();
+	$('.collapsible').collapsible();
 
 });
 
