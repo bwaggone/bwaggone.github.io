@@ -1,8 +1,8 @@
 'use strict';   // See note about 'use strict'; below
 
-var HARDSONGS = ['Dadadadadadadadadada', 'Arrabbiata', 'Chinese Snowy Dance', 'CRAZY LOVE', 'KIMONO PRINCESS', 'ZETA ~The World of Prime Numbers and the Transcendental Being~', 'ZEPHYRANTHES', 'out of focus', 'Silver Dream', 'Beautiful Dream', 'JOMANDA', 'MAX 300', 'Nostalgia Is Lost', 'Osenju meditation', 'Come to Life', 'Night of Knights', 'Trip Machine PhoeniX', 'IMANOGUILTS', 'Bamboo Sword Girl'];
-var diff15 = ['Arrabbiata', 'CRAZY LOVE', 'KIMONO PRINCESS', 'ZETA ~The World of Prime Numbers and the Transcendental Being~', 'ZEPHYRANTHES', 'Silver Dream', 'Beautiful Dream', 'MAX 300', 'JOMANDA', 'Nostalgia Is Lost', 'Osenju meditation', 'Night of Knights', 'Trip Machine PhoeniX', 'IMANOGUILTS', 'Bamboo Sword Girl'];
-var diff16 = ['Dadadadadadadadadada', 'Chinese Snowy Dance', 'out of focus', 'Come to Life']
+var diff15 = ['Arrabbiata', 'CRAZY LOVE', 'KIMONO PRINCESS', 'ZETA ~The World of Prime Numbers and the Transcendental Being~', 'ZEPHYRANTHES', 'Silver Dream', 'Beautiful Dream', 'MAX 300', 'FLOWER', 'Knight of Nights', 'JOMANDA', 'Nostalgia Is Lost', 'Osenju meditation', 'Cleopatrysm', 'Xepher', 'TRIP MACHINE PhoeniX', 'IMANOGUILTS', 'Bamboo Sword Girl'];
+var diff16 = ['Dadadadadadadadadada', 'Chinese Snowy Dance', 'out of focus', 'VANESSA', 'Engraved Mark', 'Come to Life']
+var HARDSONGS = diff15.concat(diff16)
 
 
 $(document).ready(function(){
@@ -103,6 +103,10 @@ myApp.controller('myCtrl', function($scope, $http) {
 				}
 			}
 			if(datum.name === 'Beautiful Dream' && datum.diff != 'Challenge'){
+				datum.tier = 'normal';
+
+			}
+			if(datum.name === 'Xepher' && datum.diff != 'Challenge'){
 				datum.tier = 'normal';
 
 			}
