@@ -1,7 +1,7 @@
 'use strict';   // See note about 'use strict'; below
 
 var diff15 = ['Arrabbiata', 'CRAZY LOVE', 'KIMONO PRINCESS', 'ZETA ~The World of Prime Numbers and the Transcendental Being~', 'ZEPHYRANTHES', 'Silver Dream', 'Beautiful Dream', 'MAX 300', 'FLOWER', 'Knight of Nights', 'JOMANDA', 'Nostalgia Is Lost', 'Osenju meditation', 'Cleopatrysm', 'Xepher', 'TRIP MACHINE PhoeniX', 'IMANOGUILTS', 'Bamboo Sword Girl'];
-var diff16 = ['Dadadadadadadadadada', 'Chinese Snowy Dance', 'out of focus', 'VANESSA', 'Engraved Mark', 'Come to Life']
+var diff16 = ['Dadadadadadadadadada', 'Chinese Snowy Dance', 'out of focus', 'VANESSA', 'Engraved Mark', 'Come to Life', 'KHAMEN BREAK', 'PARANOiA ~HADES~']
 var HARDSONGS = diff15.concat(diff16)
 
 
