@@ -1,8 +1,8 @@
 'use strict';   // See note about 'use strict'; below
 
-var HARDSONGS = ['Dadadadadadadadadada', 'Arrabbiata', 'Chinese Snowy Dance', 'CRAZY LOVE', 'KIMONO PRINCESS', 'ZETA ~The World of Prime Numbers and the Transcendental Being~', 'ZEPHYRANTHES', 'out of focus', 'Silver Dream', 'Beautiful Dream', 'JOMANDA', 'MAX 300', 'Nostalgia Is Lost', 'Osenju meditation'];
-var diff15 = ['Arrabbiata', 'CRAZY LOVE', 'KIMONO PRINCESS', 'ZETA ~The World of Prime Numbers and the Transcendental Being~', 'ZEPHYRANTHES', 'Silver Dream', 'Beautiful Dream', 'MAX 300', 'JOMANDA', 'Nostalgia Is Lost', 'Osenju meditation'];
-var diff16 = ['Dadadadadadadadadada', 'Chinese Snowy Dance', 'out of focus']
+var HARDSONGS = ['Dadadadadadadadadada', 'Arrabbiata', 'Chinese Snowy Dance', 'CRAZY LOVE', 'KIMONO PRINCESS', 'ZETA ~The World of Prime Numbers and the Transcendental Being~', 'ZEPHYRANTHES', 'out of focus', 'Silver Dream', 'Beautiful Dream', 'JOMANDA', 'MAX 300', 'Nostalgia Is Lost', 'Osenju meditation', 'Come to Life', 'Night of Knights', 'Trip Machine PhoeniX', 'IMANOGUILTS', 'Bamboo Sword Girl'];
+var diff15 = ['Arrabbiata', 'CRAZY LOVE', 'KIMONO PRINCESS', 'ZETA ~The World of Prime Numbers and the Transcendental Being~', 'ZEPHYRANTHES', 'Silver Dream', 'Beautiful Dream', 'MAX 300', 'JOMANDA', 'Nostalgia Is Lost', 'Osenju meditation', 'Night of Knights', 'Trip Machine PhoeniX', 'IMANOGUILTS', 'Bamboo Sword Girl'];
+var diff16 = ['Dadadadadadadadadada', 'Chinese Snowy Dance', 'out of focus', 'Come to Life']
 
 
 $(document).ready(function(){
